@@ -6,9 +6,13 @@
 
 詳細は後日（各リポジトリ内READMEに準拠）
 
+## [Github Pages](https://github.com/shimajima-eiji/shimajima-eiji.github.io)
+[Github Pagesのサイト](https://shimajima-eiji.github.io)
+
 ## [GAS](https://github.com/shimajima-eiji/GAS)
 
 ## [setup_for_chocolatey](https://github.com/shimajima-eiji/setup_for_chocolatey)
+chocolateyでできる全部と、WSLやVSCodeなど設定が必要なものも盛り込む。
 
 ## [resume](https://github.com/shimajima-eiji/resume)
 元々は本リポジトリが採用活動用に作成されたリポジトリだったが、技術力を証明する題材としては弱いため廃棄予定。<br>
