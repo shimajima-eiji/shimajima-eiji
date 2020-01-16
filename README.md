@@ -9,40 +9,51 @@
 ## [Github Pages](https://github.com/shimajima-eiji/shimajima-eiji.github.io)
 [Github Pagesのサイト](https://shimajima-eiji.github.io)
 
-## [GAS](https://github.com/shimajima-eiji/GAS)
-
-## [setup_for_chocolatey](https://github.com/shimajima-eiji/setup_for_chocolatey)
-chocolateyでできる全部と、WSLやVSCodeなど設定が必要なものも盛り込む。
-
 ## [resume](https://github.com/shimajima-eiji/resume)
-元々は本リポジトリが採用活動用に作成されたリポジトリだったが、技術力を証明する題材としては弱いため廃棄予定。<br>
-ただし、書類としては活用できるため、運用方法を見直すかもしれない。
+採用活動用に作成。GitHub就活・転職用。
+
+## [Snippets](https://github.com/shimajima-eiji/Snippets)
+GitHubのリポジトリのソースコードでランキングなり評価するサービスやエージェントに向けてごった煮ソースを混ぜるためのもの。<br>
+GASと違って運用していないものや、運用しているものに一部使っているものもあるので敢えて分けている。<br>
+サービス開始時はこういう対策を想定されなかったのだろうか？ 疑問だ。
+
+GitHub Pagesで色々手引した方がいい気がしている。
+
+## [GAS](https://github.com/shimajima-eiji/GAS)
+SnippetsのGAS特化版。<br>
+運用中なのでSnippetsからスピンオフしている。<br>
+
+これもGitHub Pagesの必要性を感じてきている。
 
 ## [public_kh](https://github.com/shimajima-eiji/public_kh)
-元々はこれがRegister_for_Scoreになっていたが、目的がブログの表示用(iframeとかそういうもの)だった。
+元々はこれがSnippetsになっていたが、目的がブログの表示用(iframeとかそういうもの)だった。<br>
+将来的に統合させたい。
+
+## [gist](https://github.com/shimajima-eiji/gist)
+gistを管理したいためのリポジトリ。<br>
+思想はSnippetsと同じだが、管理がわかりにくくなりそうなのでリポジトリを分ける事にした。
+
+## [revealjs-ck](https://github.com/shimajima-eiji/revealjs-ck)
+Markdown(RevealJS)で公開スライドをサクサク作る。LightningTalk用。<br>
+GitHub Pagesを使うこともあるので、ブログに統合できない。
 
 ## [EntranceExam](https://github.com/shimajima-eiji/EntranceExam)
 電車に揺られながら広告見てるだけなのも暇だったので、サクッとコードを組んでみたもの。<br>
 競技プログラミングではないが、早く組む事に注力したので見直しナシ・リファクタリングナシの速効コード。
-
-# 内向き
-自分が使いたいから置いているもの。
 
 ## [man-month](https://github.com/shimajima-eiji/man-month)
 転職相談時に時給←→月収←→年収が一発でわかればいいのにな～、っていう話をしたらエージェントにウケたので作ったもの。<br>
 [ブラウザで開いてすぐに使える。](https://shimajima-eiji.github.io/man-month/)<br>
 manifest.jsonを置いたらchrome拡張機能として使える。
 
+# 内向き
+自分が使いたいから置いているもの。
+
+## [Chocolatey](https://github.com/shimajima-eiji/Chocolatey)
+chocolateyでできる全部と、WSLやVSCodeなど設定が必要なものも盛り込む。<br>
+管理が適切なリポジトリを作って集約する手もある。
+
 ## [AgreeDoc](https://github.com/shimajima-eiji/AgreeDoc)
 フリーランス活動のための契約書関連。<br>
 クライアントに見せる必要があることと、あくまでテンプレートであるため公開リポジトリにしている。
 
-## [revealjs-ck](https://github.com/shimajima-eiji/revealjs-ck)
-Markdown(RevealJS)で公開スライドをサクサク作る。LightningTalk用。
-
-## [gist](https://github.com/shimajima-eiji/gist)
-gistを管理したいためのリポジトリ。
-
-## [Register_for_Score](https://github.com/shimajima-eiji/Register_for_Score)
-GitHubのリポジトリのソースコードでランキングなり評価するサービスやエージェントに向けてごった煮ソースを混ぜるためのもの。<br>
-サービス開始時はこういう対策を想定されなかったのだろうか？ 疑問だ。
