@@ -10,7 +10,8 @@
 [Github Pagesのサイト](https://shimajima-eiji.github.io)
 
 ## [resume](https://github.com/shimajima-eiji/resume)
-採用活動用に作成。GitHub就活・転職用。
+採用活動用に作成。GitHub就活・転職用。<br>
+[アポイントフォームや公開できる経歴情報が閲覧できる。](https://shimajima-eiji.github.io/resume/)
 
 ## [Snippets](https://github.com/shimajima-eiji/Snippets)
 GitHubのリポジトリのソースコードでランキングなり評価するサービスやエージェントに向けてごった煮ソースを混ぜるためのもの。<br>
