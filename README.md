@@ -13,6 +13,10 @@
 採用活動用に作成。GitHub就活・転職用。<br>
 [アポイントフォームや公開できる経歴情報が閲覧できる。](https://shimajima-eiji.github.io/resume/)
 
+### [profile](https://github.com/shimajima-eiji/profile)
+resumeが外向きだとすれば、profileは内向き、登録する内容として。
+いずれresumeに集約したいが、resumeの運用がいまのところブレているので、必要な部分だけ切り出して活用中。
+
 ## [Snippets](https://github.com/shimajima-eiji/Snippets)
 GitHubのリポジトリのソースコードでランキングなり評価するサービスやエージェントに向けてごった煮ソースを混ぜるためのもの。<br>
 GASと違って運用していないものや、運用しているものに一部使っているものもあるので敢えて分けている。<br>
@@ -54,7 +58,11 @@ manifest.jsonを置いたらchrome拡張機能として使える。
 chocolateyでできる全部と、WSLやVSCodeなど設定が必要なものも盛り込む。<br>
 管理が適切なリポジトリを作って集約する手もある。
 
+### [Qiita](https://github.com/shimajima-eiji/Qiita)
+ブックマークとかストックとかそれっぽい書き方をしているが運用が固まってない…
+どうせ後で見ないのと、「過去に消したブックマークが見たくなった」時に思い出すために、実は相性が良かったのでは？という事に気づき採用。
+役割的にはChocolatey.vivaldi.webpanel（今の所、そういうものは作ってない）に近い。
+
 ## [AgreeDoc](https://github.com/shimajima-eiji/AgreeDoc)
 フリーランス活動のための契約書関連。<br>
 クライアントに見せる必要があることと、あくまでテンプレートであるため公開リポジトリにしている。
-
