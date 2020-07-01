@@ -9,6 +9,12 @@
 ## [Github Pages](https://github.com/shimajima-eiji/shimajima-eiji.github.io)
 [Github Pagesのサイト](https://shimajima-eiji.github.io)
 
+### [Hosting](https://github.com/shimajima-eiji/Hosting)
+- [ホスティングのルート](https://shimajima-eiji.github.io/Hosting/)
+
+わざわざ別サイトを借りてまで公開するようなものではないものを置く。
+<br>今見れる物がほしい人事やスカウトの方向け。
+
 ## [resume](https://github.com/shimajima-eiji/resume)
 採用活動用に作成。GitHub就活・転職用。<br>
 [アポイントフォームや公開できる経歴情報が閲覧できる。](https://shimajima-eiji.github.io/resume/)
