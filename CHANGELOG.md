@@ -1,6 +1,9 @@
 ## Change Log
 
-### upcoming (2020/07/01 15:58 +00:00)
+### upcoming (2020/07/02 08:36 +00:00)
+- [3c17398](https://github.com/shimajima-eiji/README/commit/3c173981ba83a564a32fad79be854c2bbd19c11f) Update README.md (@shimajima-eiji)
+- [f60cf13](https://github.com/shimajima-eiji/README/commit/f60cf130d1a05626f7f1f4d156d8e79501fa6d4c) Create rule.md (@shimajima-eiji)
+- [b64edcc](https://github.com/shimajima-eiji/README/commit/b64edcc542836aead9ea8b856b29fc14e9473247) Create CHANGELOG.md (@shimajima-eiji)
 - [27808fe](https://github.com/shimajima-eiji/README/commit/27808fe737d0982ba11d1b563b26e090700c9542) Rename memo.mhttps:/github.com/shimajima-eiji/README/memo.md to memo.md (@shimajima-eiji)
 - [e4be9e2](https://github.com/shimajima-eiji/README/commit/e4be9e27665be84e491a4b915a0816a080b0b3b9) Create memo.md (@shimajima-eiji)
 - [bd04ec9](https://github.com/shimajima-eiji/README/commit/bd04ec927c2a94a9edacfeef1f2eebf18280a89d) Update roadmap.md (@shimajima-eiji)

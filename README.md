@@ -13,7 +13,7 @@
 - [ホスティングのルート](https://shimajima-eiji.github.io/Hosting/)
 
 わざわざ別サイトを借りてまで公開するようなものではないものを置く。
-<br>今見れる物がほしい人事やスカウトの方向け。
+<br>今見れる物がほしい人事や、スカウトの方向け。
 
 ## [resume](https://github.com/shimajima-eiji/resume)
 採用活動用に作成。GitHub就活・転職用。<br>
