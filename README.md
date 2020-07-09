@@ -6,13 +6,15 @@
 - 現場エンジニア・ハッカソンメンバー向け
 に自己紹介するのがこのリポジトリの目的。
 
+- [Github](https://github.com/shimajima-eiji/README)
+- [Github Pages](https://shimajima-eiji.github.io/README)
+
 # Issueについて
 主に外向けの相談コーナーとして使っている。
 
 [相談事項の一覧（Issues）](https://github.com/shimajima-eiji/README/issues)
 
 # Wikiについて
-トップディレクトリにべたべたファイルが増えた関係で、回避策としてWikiを採用。
-<br>情報が多いとペライチのページよりは最低でも2カラムは欲しくなった。
+このリポジトリの使い方や、Github転職について解説する。
 
 [Wiki](https://github.com/shimajima-eiji/README/wiki)
