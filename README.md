@@ -1,74 +1,18 @@
-# README
+# GithubのREADME
+自分で使っていてもリポジトリが溢れすぎて管理がしきれなくなったのと、2017年よりGithub転職・スカウトを精力的に行っているので、そのための案内と手引。
+<br>**情報が多いと逆に見ない**という悲しい状況に苛まれたので、
+- 非IT事業者向け（官公庁など）
+- IT事業の人事・スカウト向け
+- 現場エンジニア・ハッカソンメンバー向け
+に自己紹介するのがこのリポジトリの目的。
 
-# 外向き
-いわゆるGithub就活・転職に向けた実践リポジトリ。<br>
-現在運用中のものもある。
+# Issueについて
+主に外向けの相談コーナーとして使っている。
 
-詳細は後日（各リポジトリ内READMEに準拠）
+[相談事項の一覧（Issues）](https://github.com/shimajima-eiji/README/issues)
 
-## [Github Pages](https://github.com/shimajima-eiji/shimajima-eiji.github.io)
-[Github Pagesのサイト](https://shimajima-eiji.github.io)
+# Wikiについて
+トップディレクトリにべたべたファイルが増えた関係で、回避策としてWikiを採用。
+<br>情報が多いとペライチのページよりは最低でも2カラムは欲しくなった。
 
-### [Hosting](https://github.com/shimajima-eiji/Hosting)
-- [ホスティングのルート](https://shimajima-eiji.github.io/Hosting/)
-
-わざわざ別サイトを借りてまで公開するようなものではないものを置く。
-<br>今見れる物がほしい人事や、スカウトの方向け。
-
-## [resume](https://github.com/shimajima-eiji/resume)
-採用活動用に作成。GitHub就活・転職用。<br>
-[アポイントフォームや公開できる経歴情報が閲覧できる。](https://shimajima-eiji.github.io/resume/)
-
-### [profile](https://github.com/shimajima-eiji/profile)
-resumeが外向きだとすれば、profileは内向き、登録する内容として。
-いずれresumeに集約したいが、resumeの運用がいまのところブレているので、必要な部分だけ切り出して活用中。
-
-## [Snippets](https://github.com/shimajima-eiji/Snippets)
-GitHubのリポジトリのソースコードでランキングなり評価するサービスやエージェントに向けてごった煮ソースを混ぜるためのもの。<br>
-GASと違って運用していないものや、運用しているものに一部使っているものもあるので敢えて分けている。<br>
-サービス開始時はこういう対策を想定されなかったのだろうか？ 疑問だ。
-
-GitHub Pagesで色々手引した方がいい気がしている。
-
-## [GAS](https://github.com/shimajima-eiji/GAS)
-SnippetsのGAS特化版。<br>
-運用中なのでSnippetsからスピンオフしている。<br>
-
-これもGitHub Pagesの必要性を感じてきている。
-
-## [public_kh](https://github.com/shimajima-eiji/public_kh)
-元々はこれがSnippetsになっていたが、目的がブログの表示用(iframeとかそういうもの)だった。<br>
-将来的に統合させたい。
-
-## [gist](https://github.com/shimajima-eiji/gist)
-gistを管理したいためのリポジトリ。<br>
-思想はSnippetsと同じだが、管理がわかりにくくなりそうなのでリポジトリを分ける事にした。
-
-## [revealjs-ck](https://github.com/shimajima-eiji/revealjs-ck)
-Markdown(RevealJS)で公開スライドをサクサク作る。LightningTalk用。<br>
-GitHub Pagesを使うこともあるので、ブログに統合できない。
-
-## [EntranceExam](https://github.com/shimajima-eiji/EntranceExam)
-電車に揺られながら広告見てるだけなのも暇だったので、サクッとコードを組んでみたもの。<br>
-競技プログラミングではないが、早く組む事に注力したので見直しナシ・リファクタリングナシの速効コード。
-
-## [man-month](https://github.com/shimajima-eiji/man-month)
-転職相談時に時給←→月収←→年収が一発でわかればいいのにな～、っていう話をしたらエージェントにウケたので作ったもの。<br>
-[ブラウザで開いてすぐに使える。](https://shimajima-eiji.github.io/man-month/)<br>
-manifest.jsonを置いたらchrome拡張機能として使える。
-
-# 内向き
-自分が使いたいから置いているもの。
-
-## [Chocolatey](https://github.com/shimajima-eiji/Chocolatey)
-chocolateyでできる全部と、WSLやVSCodeなど設定が必要なものも盛り込む。<br>
-管理が適切なリポジトリを作って集約する手もある。
-
-### [Qiita](https://github.com/shimajima-eiji/Qiita)
-ブックマークとかストックとかそれっぽい書き方をしているが運用が固まってない…
-どうせ後で見ないのと、「過去に消したブックマークが見たくなった」時に思い出すために、実は相性が良かったのでは？という事に気づき採用。
-役割的にはChocolatey.vivaldi.webpanel（今の所、そういうものは作ってない）に近い。
-
-## [AgreeDoc](https://github.com/shimajima-eiji/AgreeDoc)
-フリーランス活動のための契約書関連。<br>
-クライアントに見せる必要があることと、あくまでテンプレートであるため公開リポジトリにしている。
+[Wiki](https://github.com/shimajima-eiji/README/wiki)
