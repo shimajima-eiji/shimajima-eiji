@@ -4,6 +4,7 @@
 - 非IT事業者向け（官公庁など）
 - IT事業の人事・スカウト向け
 - 現場エンジニア・ハッカソンメンバー向け
+
 に自己紹介するのがこのリポジトリの目的。
 
 - [Github](https://github.com/shimajima-eiji/README)
