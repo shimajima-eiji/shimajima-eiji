@@ -11,7 +11,7 @@
 - [Github Pages](https://shimajima-eiji.github.io/README)
 
 # Issueについて
-Github本来の課題と解決ではなく、質問・相談コーナーとして使っている。
+Githubで本来想定されている使い方（課題と解決）ではなく、質問・相談コーナーとして使っている。
 
 [相談事項の一覧（Issues）](https://github.com/shimajima-eiji/README/issues)
 
