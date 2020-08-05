@@ -1,6 +1,24 @@
-## Change Log
+## 更新履歴
 
-### upcoming (2020/07/02 08:36 +00:00)
+### 最終更新 2020年8月6日
+- [3017c07](https://github.com/shimajima-eiji/README/commit/3017c0758abbde431d75d28357343ac5e48be96b) AgreeDocを移行(CHANGELOG.mdは移行元) (@shimajima-eiji)
+- [4db77ba](https://github.com/shimajima-eiji/README/commit/4db77baec56cfbacea52ab1c21f26f05376f0fea) Create README.md (@shimajima-eiji)
+- [4970615](https://github.com/shimajima-eiji/README/commit/4970615ba10775bc9f72280dd76bf09eb65965fc) Update README.md (@shimajima-eiji)
+- [135dfa4](https://github.com/shimajima-eiji/README/commit/135dfa4ded80dcfb8e9cf4b71fc67146c06be9c0) Update README.md (@shimajima-eiji)
+- [de78014](https://github.com/shimajima-eiji/README/commit/de78014a7e5fa954edcfca5c2bb4931531149f0a) Rename profile_history.md to プロフィール履歴.md (@shimajima-eiji)
+- [e3685ac](https://github.com/shimajima-eiji/README/commit/e3685ac10c0c2b778c763cff101469b85ccdbc2a) Update profile_history.md (@shimajima-eiji)
+- [e9ed8b1](https://github.com/shimajima-eiji/README/commit/e9ed8b1ee9019373d9fce765df68b1a8f711a7a6) Delete rule.md (@shimajima-eiji)
+- [fb38069](https://github.com/shimajima-eiji/README/commit/fb380699f75ebe7ea3193d78635e03e646475ab2) Delete roadmap.md (@shimajima-eiji)
+- [8568e57](https://github.com/shimajima-eiji/README/commit/8568e57e169ba79b65504c02672c576ee2c314e4) Delete memo.md (@shimajima-eiji)
+- [8c9ef61](https://github.com/shimajima-eiji/README/commit/8c9ef613950016c4fc25bbd9cad9faba26bf1287) Update README.md (@shimajima-eiji)
+- [3c4cb44](https://github.com/shimajima-eiji/README/commit/3c4cb4446b517b53574f19898cc4f1447816c4e0) Update README.md (@shimajima-eiji)
+- [a1d9fea](https://github.com/shimajima-eiji/README/commit/a1d9fea40862649ad00535209d11bb970eee7d90) Update README.md (@shimajima-eiji)
+- [fd5f000](https://github.com/shimajima-eiji/README/commit/fd5f0005a3e1009332cec6c0e293193e9028a1b7) Update README.md (@shimajima-eiji)
+- [f671c32](https://github.com/shimajima-eiji/README/commit/f671c322318ca05e4dfe4923febe507309ea8b84) Update README.md (@shimajima-eiji)
+- [7a99569](https://github.com/shimajima-eiji/README/commit/7a995695b8a798fffdba09c8342a29ca9fc1155d) Create README.md (@shimajima-eiji)
+- [9efbe25](https://github.com/shimajima-eiji/README/commit/9efbe25c30fea914c5f906aaaa0f8b27b318d4d9) Update profile_history.md (@shimajima-eiji)
+- [d25b946](https://github.com/shimajima-eiji/README/commit/d25b946a89506d84d613ce2245bbe897ab1328a4) Create profile_history.md (@shimajima-eiji)
+- [4c3338f](https://github.com/shimajima-eiji/README/commit/4c3338f65a9f4a8663f64a1b48cfd488fac1a5c9) [20200702] 英語に対応 (@shimajima-eiji)
 - [3c17398](https://github.com/shimajima-eiji/README/commit/3c173981ba83a564a32fad79be854c2bbd19c11f) Update README.md (@shimajima-eiji)
 - [f60cf13](https://github.com/shimajima-eiji/README/commit/f60cf130d1a05626f7f1f4d156d8e79501fa6d4c) Create rule.md (@shimajima-eiji)
 - [b64edcc](https://github.com/shimajima-eiji/README/commit/b64edcc542836aead9ea8b856b29fc14e9473247) Create CHANGELOG.md (@shimajima-eiji)
