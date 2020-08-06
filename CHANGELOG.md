@@ -1,6 +1,7 @@
 ## 更新履歴
 
-### 最終更新 2020年8月6日
+### 最終更新 2020年8月7日
+- [578d16c](https://github.com/shimajima-eiji/README/commit/578d16cd554611154f3cb8cb51c0de0044d67c82) [2020/08/06][CHANGELOG] 最新化 (@shimajima-eiji)
 - [3017c07](https://github.com/shimajima-eiji/README/commit/3017c0758abbde431d75d28357343ac5e48be96b) AgreeDocを移行(CHANGELOG.mdは移行元) (@shimajima-eiji)
 - [4db77ba](https://github.com/shimajima-eiji/README/commit/4db77baec56cfbacea52ab1c21f26f05376f0fea) Create README.md (@shimajima-eiji)
 - [4970615](https://github.com/shimajima-eiji/README/commit/4970615ba10775bc9f72280dd76bf09eb65965fc) Update README.md (@shimajima-eiji)
