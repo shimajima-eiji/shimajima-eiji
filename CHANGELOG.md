@@ -1,6 +1,7 @@
 ## 更新履歴
 
-### 最終更新 2020年8月10日
+### 最終更新 2020年8月11日
+- [0491b1b](https://github.com/shimajima-eiji/README/commit/0491b1bcb9f4adf4f5df720a46cdc2d69685709d) [2020/08/10][CHANGELOG] 最新化 (@shimajima-eiji)
 - [4665199](https://github.com/shimajima-eiji/README/commit/4665199fd08b52f1b8ae5be1922e5c9dd3c8d638) [2020/08/09][CHANGELOG] 最新化 (@shimajima-eiji)
 - [0d32e64](https://github.com/shimajima-eiji/README/commit/0d32e6450ebe0f1e72bc8d6e809b76fc137370a0) [2020/08/08][CHANGELOG] 最新化 (@shimajima-eiji)
 - [659cc87](https://github.com/shimajima-eiji/README/commit/659cc877afa5f4875907a63962b835aaab9fe550) [2020/08/07][CHANGELOG] 最新化 (@shimajima-eiji)
