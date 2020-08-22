@@ -12,6 +12,6 @@
 <br>お気づきの点などもご教示いただけると嬉しいです。
 
 - [相談する（要Githubアカウント）](https://github.com/shimajima-eiji/shimajima-eiji/issues/new)
+- [コメントフォームの使い方](https://github.com/shimajima-eiji/shimajima-eiji/wiki/【解説】Issues)
 - [相談内容の一覧（Issues）](https://github.com/shimajima-eiji/README/issues)
-- [過去の相談内容の一覧](https://github.com/shimajima-eiji/README/issues?q=is%3Aissue+is%3Aclosed)
-- [使い方]()
+  - [（参考）過去の相談内容](https://github.com/shimajima-eiji/README/issues?q=is%3Aissue+is%3Aclosed)
