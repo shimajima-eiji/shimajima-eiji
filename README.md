@@ -1,6 +1,6 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
 
-[for English](https://github.com/shimajima-eiji/shimajima-eiji/blob/master/README_en.md)
+### [for English](https://github.com/shimajima-eiji/shimajima-eiji/blob/master/README_en.md)
 
 # ごあんない
 私のGithubのリポジトリの解説と、人事・スカウトの方向けにGithub転職について扱っています。
