@@ -9,7 +9,7 @@
 - [ポートフォリオサイトを見る(Github Pages)](https://shimajima-eiji.github.io/)
 - [技術者向けページ](https://github.com/shimajima-eiji/shimajima-eiji)
 
-## [`Issues`](https://github.com/shimajima-eiji/shimajima-eiji/issues)について
+## Issuesについて
 質問・相談フォームです。
 <br>お気づきの点などもご教示いただけると嬉しいです。
 
