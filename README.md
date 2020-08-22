@@ -1,4 +1,15 @@
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
+
+# ごあんない
+- [詳細ページを見る](https://github.com/shimajima-eiji/shimajima-eiji)
+- [サイトを見る(Github Pages)](https://shimajima-eiji.github.io/)
+
+
 # GithubのREADME
+
+<details><summary>ここをクリックして表示・非表示</summary><div>
+
+***
 色々なページを作っていたのですが、**情報が多いと逆に見なくなる**という悲しい状況に苛まれたので、
 
 - 非IT事業者向け（官公庁など）
@@ -22,3 +33,6 @@ Githubで本来想定されている使い方（課題と解決）ではなく�
 - [Wiki](https://github.com/shimajima-eiji/README/wiki)
 - [Github](https://github.com/shimajima-eiji/README)
 - [Github Pages](https://shimajima-eiji.github.io/README)
+
+***
+</div></details>
