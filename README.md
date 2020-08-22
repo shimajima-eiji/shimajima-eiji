@@ -15,3 +15,5 @@
 - [コメントフォームの使い方](https://github.com/shimajima-eiji/shimajima-eiji/wiki/【解説】Issues)
 - [相談内容の一覧（Issues）](https://github.com/shimajima-eiji/README/issues)
   - [（参考）過去の相談内容](https://github.com/shimajima-eiji/README/issues?q=is%3Aissue+is%3Aclosed)
+
+[for English](https://github.com/shimajima-eiji/shimajima-eiji/blob/master/README_en.md)
