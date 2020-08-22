@@ -1,3 +1,5 @@
+## [日本語](README.md)
+
 # There's no way
 This is a description of my Github repository and deals with Github job change for HR and scouts.
 
@@ -13,5 +15,3 @@ This is a question/consultation form.
 - [How to use the comment form](https://github.com/shimajima-eiji/shimajima-eiji/wiki/ [Explanation] Issues)
 - [Issues](https://github.com/shimajima-eiji/README/issues)
   - [(Reference) Past consultation](https://github.com/shimajima-eiji/README/issues?q=is%3Aissue+is%3Aclosed)
-
-[for Japaneese](README.md)
