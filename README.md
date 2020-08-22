@@ -17,3 +17,6 @@
 - [コメントフォームの使い方](https://github.com/shimajima-eiji/shimajima-eiji/wiki/【解説】Issues)
 - [相談内容の一覧（Issues）](https://github.com/shimajima-eiji/README/issues)
   - [（参考）過去の相談内容](https://github.com/shimajima-eiji/README/issues?q=is%3Aissue+is%3Aclosed)
+
+## GitHub就活・転職・スカウトプロジェクトについて
+[専用のリポジトリ（GitHub_scout）](https://github.com/shimajima-eiji/Github_scout)
