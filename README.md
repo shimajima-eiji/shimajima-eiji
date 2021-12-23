@@ -1,5 +1,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
 
+## [`【for English】`](https://github.com/shimajima-eiji/shimajima-eiji/blob/master/README_en.md)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
 </a>
@@ -7,8 +9,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true" />
 </a>
 
-
-## [`【for English】`](https://github.com/shimajima-eiji/shimajima-eiji/blob/master/README_en.md)
+## リポジトリ
+![README](https://github-readme-stats.vercel.app/api/pin/?username=shimajima-eiji&repo=README)
+![Projects](https://github-readme-stats.vercel.app/api/pin/?username=shimajima-eiji&repo=Projects)
 
 # ごあんない
 私のGithubのリポジトリの解説と、人事・スカウトの方向けにGithub転職について扱っています。
