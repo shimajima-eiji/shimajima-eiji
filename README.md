@@ -20,6 +20,8 @@ Githubのプロジェクト機能が充実してきたので、Github就活・�
 </a>
 
 ## 主要リポジトリ
+[すべてのリポジトリを参照する場合は、こちらのリンクよりご覧ください。](https://github.com/shimajima-eiji?tab=repositories)
+
 ![README](https://github-readme-stats.vercel.app/api/pin/?username=shimajima-eiji&repo=README)
 ![Projects](https://github-readme-stats.vercel.app/api/pin/?username=shimajima-eiji&repo=Projects)
 
