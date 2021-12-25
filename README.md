@@ -19,6 +19,8 @@ Githubのプロジェクト機能が充実してきたので、Github就活・�
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true" />
 </a>
 
+![Contribute](https://raw.githubusercontent.com/shimajima-eiji/shimajima-eiji/master/profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 主要リポジトリ
 [すべてのリポジトリを参照する場合は、こちらのリンクよりご覧ください。](https://github.com/shimajima-eiji?tab=repositories)
 
