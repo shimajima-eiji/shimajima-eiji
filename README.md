@@ -12,12 +12,8 @@ Githubのプロジェクト機能が充実してきたので、Github就活・�
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true" />
-</a>
+[![GitHubでの活動記録](https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true)]
+[![よく使う言語など(GitHub基準)](https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true)]
 
 ![Contribute](https://raw.githubusercontent.com/shimajima-eiji/shimajima-eiji/master/profile-3d-contrib/profile-night-rainbow.svg)
 
