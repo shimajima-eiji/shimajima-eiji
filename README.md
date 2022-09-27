@@ -4,6 +4,9 @@
 [スライド全文](https://github.com/shimajima-eiji/shimajima-eiji.github.io)
 
 # 活動記録
+- １年に１回、だいたい1,2ヶ月を目処に大幅アップデートしています
+  - ディスカッションをウィキの更新がコントリビューションに反映されないのが悩みです…
+
 ![](https://raw.githubusercontent.com/shimajima-eiji/__Github-Operation/main/profile-3d-contrib/profile-gitblock.svg)
 
 # その他技術情報(スライド内より抜粋)
