@@ -1,3 +1,9 @@
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
+
+<a href="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true">
+  <img alt="GitHubでの活動記録" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
+</a>
+
 # 画像クリックでスライドページを拡大
 [![](https://raw.githubusercontent.com/shimajima-eiji/__Backup_Images/main/Github/shimajima-eiji.github.io/nomark/webp/profile/profile_blog_720.webp)](https://shimajima-eiji.github.io)
 
@@ -14,6 +20,30 @@
 
 ![](https://raw.githubusercontent.com/shimajima-eiji/__Github-Operation/main/profile-3d-contrib/profile-gitblock.svg)
 
+# README(GitHub就活・転職プロジェクト)
+色々なページを作っていたのですが、**情報が多いと逆に見るのがしんどくなる**という悲しい状況に苛まれたので、
+
+- 非IT事業者向け（官公庁など）
+- IT事業の人事・スカウト向け
+- 現場エンジニア・ハッカソンメンバー向け
+
+上記に該当する方向けにページを考えています。<br />
+2023年も引き続きGitHub転職プロジェクトに力を入れていきます。
+
+## コンタクトについて
+GitHubアカウントをお持ちの場合は、Github Issuesの機能を使用します。
+<br>本来想定されている使い方（課題と解決）ではなく、質問・相談コーナーとして使っています。
+<br>お気づきの点があれば、以下よりご教示いただけると嬉しいです。
+
+[相談事項の一覧（Issues）](https://github.com/shimajima-eiji/shimajima-eiji/issues)
+
 # その他技術情報(スライド内より抜粋)
-- [ポートフォリオサイト](https://www.wantedly.com/id/nomuraya)
-- [エージェント様向け・貴社サービス登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfp6sZshBuDt_wdrIv7j7HW2Zjy9uVGknbFSB9TUGMJql95ng/viewform)
+| ページリンク | 概要 |
+| ----------- | ---- |
+| [ポートフォリオ：サイトトップ](https://shimajima-eiji.github.io/) | 自前のポートフォリオサイトです。最近は手抜き気味…。 |
+| [ポートフォリオ：外部サイト](https://www.wantedly.com/id/nomuraya) | 外部ポートフォリオサイトです。アカウントがなくても見れます。こちらの方が更新が早いです。 |
+| [すべての作品一覧](https://github.com/shimajima-eiji?tab=repositories) | 作成したプログラムやブログサイト向けのソースコード、または作品のうち公開できるものを置いています。 |
+| [Github：転職プロジェクト](https://github.com/shimajima-eiji?tab=projects&type=beta) | こういう活動やってます、というのを一覧できるようにしました。進捗管理にも使っています。 |
+| [Webサービス](https://shimajima-eiji.github.io/Hosting) | すぐに使えるサービスです。主にJavaScriptで作成しています。 |
+| [Webサービス（ソースコード）](https://github.com/shimajima-eiji/Hosting) | 上記サービスのソースコードを置いています。 |
+| [開発環境](https://github.com/shimajima-eiji/Settings_Environment) | エンジニアの方向けに、私の開発環境を公開しています。 |
