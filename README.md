@@ -4,6 +4,11 @@
   <img alt="GitHubでの活動記録" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
 </a>
 
+# ご案内：スカウターの皆様
+- [日程調整フォーム](https://shimajima-eiji.github.io/calendar.html)
+- [2023年度版: 一般公開用履歴書](https://proff.io/p/nomuraya)
+- [作成中] 2023年度版: 一般公開用経歴書
+
 # 画像クリックでスライドページを拡大
 [![](https://raw.githubusercontent.com/shimajima-eiji/__Backup_Images/main/Github/shimajima-eiji.github.io/nomark/webp/profile/profile_blog_720.webp)](https://shimajima-eiji.github.io)
 
