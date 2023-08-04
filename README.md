@@ -5,7 +5,7 @@
 </a>
 
 # ご案内：スカウターの皆様
-- [日程調整フォーム](https://shimajima-eiji.github.io/calendar.html)
+- [ポートフォリオ（日程調整フォームを含む）](https://naka-sho.netlify.app/#/)
 - [2023年度版: 一般公開用履歴書](https://proff.io/p/nomuraya)
 - [作成中] 2023年度版: 一般公開用経歴書
 
