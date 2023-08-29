@@ -1,4 +1,7 @@
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
+[![wakatime](https://wakatime.com/badge/user/c2d996c1-f59e-4930-a8aa-735d66822ec3.svg)](https://wakatime.com/@c2d996c1-f59e-4930-a8aa-735d66822ec3)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
 
 <a href="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true">
   <img alt="GitHubでの活動記録" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
