@@ -2,7 +2,11 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
-
+<!-- FYI: https://github.com/nikaera/zenn-badge -->
+[![](https://zenn.badge.nikaera.com/s/nomuraya/likes?style=flat)](https://zenn.dev/nomuraya)
+[![](https://zenn.badge.nikaera.com/s/nomuraya/articles?style=flat)](https://zenn.dev/nomuraya/articles)
+[![](https://zenn.badge.nikaera.com/s/nomuraya/followers?style=flat)](https://zenn.dev/nomuraya/followers)
+  
 <a href="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true">
   <img alt="GitHubでの活動記録" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
 </a>
