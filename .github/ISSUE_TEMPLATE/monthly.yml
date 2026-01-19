@@ -1,0 +1,69 @@
+name: マンスリータスク
+description: 'ver3(2025/12) マンスリータスクの管理'
+title: '[マンスリー] YYYY/MM タスク'
+labels: ['マイルストーン']
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## プロジェクト追加
+        - [カレンダー](https://github.com/users/shimajima-eiji/projects/27/views/1?pane=issue&itemId=84057099&issue=shimajima-eiji%7Cshimajima-eiji%7C80)
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 参照
+        - [カレンダープロジェクト](https://github.com/users/shimajima-eiji/projects/27)
+        - 先月のタスク: #マンスリータスク
+
+  - type: markdown
+    attributes:
+      value: |
+        ## クローズ要件
+        タスク欄をIssue化する
+
+  - type: checkboxes
+    id: financial-tasks
+    attributes:
+      label: 労務・税務・請求
+      description: 月次の財務タスク
+      options:
+        - label: YYYY/MM/支払い・振り込み
+        - label: YYYY/MM/請求書
+        - label: YYYY/MM/売上台帳
+        - label: YYYY/MM/出金伝票
+
+  - type: checkboxes
+    id: content-tasks
+    attributes:
+      label: 投稿タスク
+      description: コンテンツ投稿関連
+      options:
+        - label: '/50周目 Qiita Weekly(/~/) +6日 (判定は月曜00:00から日曜23:59まで)'
+        - label: 'note投稿 monthly 月 (weeklyやdailyもあるけど、そこまでやるとしんどい)'
+
+  - type: checkboxes
+    id: event-tasks
+    attributes:
+      label: 勉強会確認タスク
+      description: connpassはくせになってるので略
+      options:
+        - label: 'YYYY/MM/Docomoお台場ラボ系: https://app.docomo-openlab.jp/client/account/my-page'
+        - label: 'YYYY/MM/クリーク・アンド・リバー社（ブラウザ注意）: https://www.creativevillage.ne.jp/category/crv_event'
+
+  - type: checkboxes
+    id: daily-check
+    attributes:
+      label: デイリー推奨
+      options:
+        - label: 'YYYY/MM/TechPlay: SlackのRSSフィードチャンネル'
+        - label: 'YYYY/MM/AWSイベントページ: https://aws.amazon.com/jp/events'
+
+  - type: checkboxes
+    id: weekly-check
+    attributes:
+      label: ウィークリーで見た方がいいかも
+      description: 金曜14-18時カレンダー登録済み
+      options:
+        - label: 'YYYY/MM/プリザンター: https://pleasanter.org/archives/category/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B'
