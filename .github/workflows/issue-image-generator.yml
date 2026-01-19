@@ -1,0 +1,86 @@
+name: Issue image generator
+
+on:
+  issues:
+    types:
+      - opened
+      - labeled
+
+permissions:
+  contents: write
+  issues: write
+
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  DEFAULT_BRANCH: master
+
+jobs:
+  generate:
+    if: >
+      contains(github.event.issue.labels.*.name, 'image-gen') &&
+      github.event.issue.user.login == 'shimajima-eiji'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate image via OpenAI
+        id: generate
+        run: |
+          set -e
+
+          PROMPT=$(jq -r '.issue.body' "$GITHUB_EVENT_PATH")
+          ISSUE_NUMBER=$(jq -r '.issue.number' "$GITHUB_EVENT_PATH")
+          TS=$(date -u +%Y%m%d%H%M%S)
+
+          OUTDIR="generated"
+          mkdir -p "$OUTDIR"
+          FILENAME="issue-${ISSUE_NUMBER}-${TS}.png"
+
+          JSON=$(jq -n --arg prompt "$PROMPT" '{
+            model: "gpt-image-1",
+            prompt: $prompt,
+            size: "1024x1024",
+            response_format: "b64_json"
+          }')
+
+          curl -sS https://api.openai.com/v1/images/generations \
+            -H "Authorization: Bearer ${OPENAI_API_KEY}" \
+            -H "Content-Type: application/json" \
+            -d "$JSON" \
+            | jq -r '.data[0].b64_json' \
+            | base64 -d > "${OUTDIR}/${FILENAME}"
+
+          echo "relpath=${OUTDIR}/${FILENAME}" >> "$GITHUB_OUTPUT"
+
+      - name: Commit image file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add generated/
+          git commit -m "Add generated image for issue #${{ github.event.issue.number }}" || exit 0
+          git push
+
+      - name: Comment URL to issue
+        env:
+          RELPATH: ${{ steps.generate.outputs.relpath }}
+        run: |
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/${{ env.DEFAULT_BRANCH }}/$RELPATH"
+
+          BODY=$(cat << EOF_BODY
+          🎨 画像を生成しました
+
+          - Issue: #${{ github.event.issue.number }}
+          - URL: $URL
+          EOF_BODY
+          )
+
+          curl -sS \
+            -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Content-Type: application/json" \
+            -d "$(jq -n --arg body "$BODY" '{body: $body}')" \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments"

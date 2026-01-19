@@ -1,0 +1,19 @@
+name: 画像生成リクエスト
+description: 画像生成ワークフロー用のプロンプト入力フォーム
+labels:
+  - image-gen
+body:
+  - type: textarea
+    id: prompt
+    attributes:
+      label: プロンプト
+      description: 画像生成に使うテキストプロンプトを書いてください。
+    validations:
+      required: true
+  - type: input
+    id: style
+    attributes:
+      label: スタイル（任意）
+      placeholder: 例）フラットデザイン / 手書き風 / 写実的 など
+    validations:
+      required: false
