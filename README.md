@@ -1,10 +1,11 @@
+<!--
+
 ### プロフィール
 
 [ポートフォリオサイト](https://shimajima-eiji.github.io) でスライド形式の自己紹介を公開しています。
 
 ---
 
-<!--
 > [!NOTE]
 > ようこそ！<br>
 > このページは
@@ -15,7 +16,6 @@
 > 
 > ## [2024] 活動記録・分析
 > ### コミュニティ
--->
 
 > [!IMPORTANT]
 > # コンタクト<br>
@@ -40,11 +40,17 @@
 
 ---
 
+-->
+
+<!--
 [![wakatime](https://wakatime.com/badge/user/c2d996c1-f59e-4930-a8aa-735d66822ec3.svg)](https://wakatime.com/@c2d996c1-f59e-4930-a8aa-735d66822ec3)
+-->
 <!-- FYI: https://qiita-badge.apiapi.app -->
+<!--
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
+-->
 <!-- Zenn: 2026-05-19 アカウント凍結のためバッジ無効化 -->
 <!-- [![](https://zenn.badge.nikaera.com/s/nomuraya/likes?style=flat)](https://zenn.dev/nomuraya) -->
 <!-- [![](https://zenn.badge.nikaera.com/s/nomuraya/articles?style=flat)](https://zenn.dev/nomuraya/articles) -->
