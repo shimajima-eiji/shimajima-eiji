@@ -12,7 +12,6 @@ permissions:
 
 env:
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-  DEFAULT_BRANCH: master
 
 jobs:
   generate:
@@ -67,7 +66,7 @@ jobs:
         env:
           RELPATH: ${{ steps.generate.outputs.relpath }}
         run: |
-          URL="https://raw.githubusercontent.com/${{ github.repository }}/${{ env.DEFAULT_BRANCH }}/$RELPATH"
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.repository.default_branch }}/$RELPATH"
 
           BODY=$(cat << EOF_BODY
           🎨 画像を生成しました
