@@ -1,0 +1,28 @@
+name: Update latest articles
+
+# README の「🆕 最新記事」セクションを Qiita の RSS から自動更新する。
+# <!-- BLOG-POST-LIST:START --> 〜 <!-- BLOG-POST-LIST:END --> の間を差し替える。
+
+on:
+  schedule:
+    # 毎日 00:00 UTC（日本時間 09:00）に更新
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pull latest Qiita articles into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://qiita.com/nomurasan/feed"
+          max_post_count: 5
+          commit_message: "chore: update latest articles"
+          template: "- 📝 [$title]($url)$newline"
