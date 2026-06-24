@@ -39,9 +39,10 @@
 
 ### 🆕 最新記事
 
-<!-- BLOG-POST-LIST:START -->
-<!-- 最新記事は GitHub Actions（Qiita RSS）が自動で差し込みます。初回実行までは空欄です。 -->
-- 📚 [Qiita で記事一覧を見る → @nomurasan](https://qiita.com/nomurasan)
+<!-- BLOG-POST-LIST:START -->- 📝 [Claude Codeに記事管理を任せたら下書きを全体公開された話と、その後に作った3ゲート防衛システム](https://qiita.com/nomurasan/items/faab752edadf859ae122)
+- 📝 [GitHubプロフィールREADMEを「記事を書くだけで育つ」状態にするGitHub Actions設定](https://qiita.com/nomurasan/items/9890e97f782b39bfe651)
+- 📝 [ITパスポートのアルゴリズム章で計算量&lpar;O記法&rpar;が頭に入らない人へ — Q&amp;Aで詰まりを潰す](https://qiita.com/nomurasan/items/4884d709dbc9517a1472)
+- 📝 [ブラウザのセキュリティ制約とローカルファイルアクセス - file://プロトコルの罠](https://qiita.com/nomurasan/items/59dcba0159d25b9b4c72)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **もっと読む / フォロー:** [Qiita @nomurasan](https://qiita.com/nomurasan)
