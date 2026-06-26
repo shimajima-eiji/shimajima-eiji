@@ -3,14 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:b21f1f&height=200&section=header&text=shimajima-eiji&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%2F%20Tech%20Writer&descSize=20&descAlignY=60" alt="header" />
 
-<a href="https://qiita.com/nomurasan">
+<a href="https://dev.to/nomurasan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=620&lines=Forward+Deployed+Engineer;I+write+about+AI+x+real-world+ops;Making+the+%22why%22+of+code+explainable" alt="typing" />
 </a>
 
 <br/>
 
-<a href="https://qiita.com/nomurasan"><img src="https://img.shields.io/badge/Qiita_%E3%82%92%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Follow on Qiita" /></a>
-<a href="https://shimajima-eiji.github.io/"><img src="https://img.shields.io/badge/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA-2a5298?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://dev.to/nomurasan"><img src="https://img.shields.io/badge/Follow_on_DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow on DEV" /></a>
+<a href="https://qiita.com/nomurasan"><img src="https://img.shields.io/badge/Qiita_(JP)-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+<a href="https://shimajima-eiji.github.io/"><img src="https://img.shields.io/badge/Portfolio-2a5298?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 
 <br/>
 
@@ -18,26 +19,24 @@
 
 </div>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================================================================== -->
+<!-- ENGLISH SECTION (primary)                                             -->
+<!-- ===================================================================== -->
 
 ## 👋 About
 
-**Forward Deployed Engineer** として顧客の現場に入り、AI を実務に組み込んで課題を解いています。
-その過程で得た **「現場で本当に効いた知見」を技術記事として継続発信** しているのが、私の主な活動です。
-丸暗記ではなく **“なぜそうなるのか” を言語化する** ことを大切にしています。
+I am a **Forward Deployed Engineer**. I work inside the customer's environment and build AI into their actual operations to solve real problems. Alongside that, I write technical articles about what actually worked in the field. I care about explaining **why** something behaves the way it does, not just memorizing how to use it.
 
-<!-- ===================== WRITING (MAIN) ===================== -->
+## 📝 Writing
 
-## 📝 技術発信 / Writing
+Main topics I write about:
 
-書いている主なテーマ:
+- 🤖 **AI × real-world ops** — operational know-how for making Claude Code stick in a working business workflow.
+- ✅ **Quality control for AI-generated output** — automating article fact-checks as a pre-commit gate.
+- 🌱 **Putting the beginner's "why" into words** — explanations that start from the spec, such as how a `for` loop actually works (PHP / JavaScript).
+- 🚀 **How to start publishing** — guides for people who are about to write their first article.
 
-- 🤖 **AI × 実務** — Claude Code を業務ワークフローに定着させる運用知見
-- ✅ **AI 生成物の品質管理** — 記事のファクトチェックを pre-commit ゲートで自動化する取り組み
-- 🌱 **初学者の「なぜ」を言語化** — `for` 文など、仕様から理解する解説（PHP / JavaScript）
-- 🚀 **発信のはじめ方** — Qiita 入門など、これから書く人へのガイド
-
-### 🆕 最新記事
+### 🆕 Latest articles
 
 <!-- BLOG-POST-LIST:START -->- 📝 [Claude Codeに記事管理を任せたら下書きを全体公開された話と、その後に作った3ゲート防衛システム](https://qiita.com/nomurasan/items/faab752edadf859ae122)
 - 📝 [GitHubプロフィールREADMEを「記事を書くだけで育つ」状態にするGitHub Actions設定](https://qiita.com/nomurasan/items/9890e97f782b39bfe651)
@@ -45,9 +44,7 @@
 - 📝 [ブラウザのセキュリティ制約とローカルファイルアクセス - file://プロトコルの罠](https://qiita.com/nomurasan/items/59dcba0159d25b9b4c72)
 <!-- BLOG-POST-LIST:END -->
 
-▶ **もっと読む / フォロー:** [Qiita @nomurasan](https://qiita.com/nomurasan)
-
-<!-- ===================== TECH STACK ===================== -->
+▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
 
 ## 🧰 Tech Stack
 
@@ -60,17 +57,60 @@
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-<!-- ===================== LINKS ===================== -->
-
 ## 🔗 Links
+
+| Page | Summary |
+| ----- | ---- |
+| 🌐 [DEV](https://dev.to/nomurasan) | Technical articles in English (primary) |
+| 📚 [Qiita](https://qiita.com/nomurasan) | Technical articles in Japanese |
+| 🖼️ [Portfolio](https://shimajima-eiji.github.io/) | Slide-style self-introduction and activity log |
+| 🪪 [Prairie Cards](https://my.prairie.cards/u/nomuraya) | Forward Deployed Engineer — business card |
+| 🤝 [Wantedly](https://www.wantedly.com/id/nomuraya) | Profile (viewable without an account) |
+| 📦 [Repositories](https://github.com/shimajima-eiji?tab=repositories) | Public projects and experimental code |
+
+## 📮 Contact
+
+Feedback on my articles and work inquiries are both welcome. Reach me through [**Prairie Cards**](https://my.prairie.cards/u/nomuraya) or [**Wantedly**](https://www.wantedly.com/id/nomuraya). Mentioning **"saw your GitHub profile"** makes it faster to get to the point 🙌
+
+<!-- ===================================================================== -->
+<!-- 日本語セクション (secondary)                                           -->
+<!-- ===================================================================== -->
+
+---
+
+## 👋 自己紹介
+
+**Forward Deployed Engineer** として顧客の現場に入り、AI を実務に組み込んで課題を解いています。あわせて、現場で本当に効いた知見を技術記事として発信しています。丸暗記ではなく、**なぜそうなるのか** を言語化することを大切にしています。
+
+## 📝 技術発信
+
+書いている主なテーマ:
+
+- 🤖 **AI × 実務** — Claude Code を業務ワークフローに定着させる運用知見
+- ✅ **AI 生成物の品質管理** — 記事のファクトチェックを pre-commit ゲートで自動化する取り組み
+- 🌱 **初学者の「なぜ」を言語化** — `for` 文など、仕様から理解する解説（PHP / JavaScript）
+- 🚀 **発信のはじめ方** — Qiita 入門など、これから書く人へのガイド
+
+> 最新記事は上部の英語セクション（DEV）に自動表示しています。日本語の記事は [Qiita @nomurasan](https://qiita.com/nomurasan) にまとめています。
+
+## 🧰 技術スタック
+
+使用技術は上部の英語セクション（Tech Stack）と同じです。
+
+## 🔗 リンク
 
 | ページ | 概要 |
 | ----- | ---- |
-| 📚 [Qiita](https://qiita.com/nomurasan) | 技術記事（メインの発信先） |
+| 🌐 [DEV](https://dev.to/nomurasan) | 英語の技術記事（メインの発信先） |
+| 📚 [Qiita](https://qiita.com/nomurasan) | 日本語の技術記事 |
 | 🖼️ [ポートフォリオサイト](https://shimajima-eiji.github.io/) | スライド形式の自己紹介・活動記録 |
 | 🪪 [Prairie Cards](https://my.prairie.cards/u/nomuraya) | Forward Deployed Engineer — 名刺代わり |
 | 🤝 [Wantedly](https://www.wantedly.com/id/nomuraya) | プロフィール（アカウント不要で閲覧可） |
 | 📦 [Repositories](https://github.com/shimajima-eiji?tab=repositories) | 公開プロジェクト・実験的コード |
+
+## 📮 連絡先
+
+記事の感想・お仕事のご相談など歓迎です。[**Prairie Cards**](https://my.prairie.cards/u/nomuraya) または [**Wantedly**](https://www.wantedly.com/id/nomuraya) からどうぞ。**「GitHub プロフィールを見た」** と添えていただけると話が早いです 🙌
 
 <!-- ===================== STATS ===================== -->
 
@@ -91,18 +131,10 @@
 
 ## 🏅 Credibility
 
-第三者評価としての客観指標です。
+Third-party objective metrics.
 
-<a href="https://lapras.com/person"><img src="https://img.shields.io/badge/LAPRAS_%E6%8A%80%E8%A1%93%E5%8A%9B-4.30_%28%E4%B8%8A%E4%BD%8D0.46%25%29-1f6feb?style=flat-square&logo=verizon&logoColor=white" alt="LAPRAS tech score" /></a>
-<a href="https://lapras.com/person"><img src="https://img.shields.io/badge/LAPRAS_%E5%B8%82%E5%A0%B4%E4%BE%A1%E5%80%A4-4.21_%28%E4%B8%8A%E4%BD%8D0.75%25%29-2a5298?style=flat-square&logo=trustpilot&logoColor=white" alt="LAPRAS market value" /></a>
-
-<!-- ===================== CONTACT ===================== -->
-
-## 📮 Contact
-
-記事の感想・お仕事のご相談など歓迎です。各種エージェントサービスにも登録しています。
-[**Prairie Cards**](https://my.prairie.cards/u/nomuraya) または [**Wantedly**](https://www.wantedly.com/id/nomuraya) からどうぞ。
-**「GitHub プロフィールを見た」** と添えていただけると話が早いです 🙌
+<a href="https://lapras.com/person"><img src="https://img.shields.io/badge/LAPRAS_Tech_Score-4.30_(top_0.46%25)-1f6feb?style=flat-square&logo=verizon&logoColor=white" alt="LAPRAS tech score" /></a>
+<a href="https://lapras.com/person"><img src="https://img.shields.io/badge/LAPRAS_Market_Value-4.21_(top_0.75%25)-2a5298?style=flat-square&logo=trustpilot&logoColor=white" alt="LAPRAS market value" /></a>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b21f1f,50:2a5298,100:1a2a6c&height=120&section=footer" alt="footer" />
