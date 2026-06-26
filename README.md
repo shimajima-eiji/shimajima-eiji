@@ -20,8 +20,11 @@
 </div>
 
 <!-- ===================================================================== -->
-<!-- ENGLISH SECTION (primary)                                             -->
+<!-- ENGLISH SECTION (primary) — open by default (pseudo-tab)              -->
 <!-- ===================================================================== -->
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
 
 ## 👋 About
 
@@ -72,11 +75,14 @@ Main topics I write about:
 
 Feedback on my articles and work inquiries are both welcome. Reach me through [**Prairie Cards**](https://my.prairie.cards/u/nomuraya) or [**Wantedly**](https://www.wantedly.com/id/nomuraya). Mentioning **"saw your GitHub profile"** makes it faster to get to the point 🙌
 
+</details>
+
 <!-- ===================================================================== -->
-<!-- 日本語セクション (secondary)                                           -->
+<!-- 日本語セクション (secondary) — collapsed by default (pseudo-tab)       -->
 <!-- ===================================================================== -->
 
----
+<details>
+<summary><b>🇯🇵 日本語</b></summary>
 
 ## 👋 自己紹介
 
@@ -112,7 +118,9 @@ Feedback on my articles and work inquiries are both welcome. Reach me through [*
 
 記事の感想・お仕事のご相談など歓迎です。[**Prairie Cards**](https://my.prairie.cards/u/nomuraya) または [**Wantedly**](https://www.wantedly.com/id/nomuraya) からどうぞ。**「GitHub プロフィールを見た」** と添えていただけると話が早いです 🙌
 
-<!-- ===================== STATS ===================== -->
+</details>
+
+<!-- ===================== STATS (common / 言語共通) ===================== -->
 
 ## 📈 GitHub Activity
 
