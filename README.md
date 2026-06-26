@@ -41,10 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Claude Codeに記事管理を任せたら下書きを全体公開された話と、その後に作った3ゲート防衛システム](https://qiita.com/nomurasan/items/faab752edadf859ae122)
-- 📝 [GitHubプロフィールREADMEを「記事を書くだけで育つ」状態にするGitHub Actions設定](https://qiita.com/nomurasan/items/9890e97f782b39bfe651)
-- 📝 [ITパスポートのアルゴリズム章で計算量&lpar;O記法&rpar;が頭に入らない人へ — Q&amp;Aで詰まりを潰す](https://qiita.com/nomurasan/items/4884d709dbc9517a1472)
-- 📝 [ブラウザのセキュリティ制約とローカルファイルアクセス - file://プロトコルの罠](https://qiita.com/nomurasan/items/59dcba0159d25b9b4c72)
+<!-- BLOG-POST-LIST:START -->- 📝 [AI made generation cheap. It did not make judgment cheap.](https://dev.to/nomurasan/ai-made-generation-cheap-it-did-not-make-judgment-cheap-j97)
+- 📝 [No errors, but the email never arrives — it&#39;s probably not your code](https://dev.to/nomurasan/no-errors-but-the-email-never-arrives-its-probably-not-your-code-5cbe)
+- 📝 [I Copied a Google AI Studio Session by Hand. 68% of the Data Was Gone.](https://dev.to/nomurasan/i-copied-a-google-ai-studio-session-by-hand-68-of-the-data-was-gone-3fhi)
+- 📝 [Why AI Keeps Making the Same Mistake — And Why Correcting It Each Time Doesn&#39;t Work](https://dev.to/nomurasan/why-ai-keeps-making-the-same-mistake-and-why-correcting-it-each-time-doesnt-work-2cpi)
+- 📝 [Stop Telling Your AI to &quot;Be Careful Next Time.&quot; It Has No Memory of Yesterday.](https://dev.to/nomurasan/stop-telling-your-ai-to-be-careful-next-time-it-has-no-memory-of-yesterday-i6c)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
