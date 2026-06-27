@@ -69,12 +69,13 @@ Main topics I write about:
 | 📚 [Qiita](https://qiita.com/nomurasan) | Technical articles in Japanese |
 | 🖼️ [Portfolio](https://shimajima-eiji.github.io/) | Slide-style self-introduction and activity log |
 | 🪪 [Prairie Cards](https://my.prairie.cards/u/nomuraya) | Forward Deployed Engineer — business card |
+| 💼 [LinkedIn](https://www.linkedin.com/in/nomuraya/) | Forward Deployed Engineer — overseas inquiries welcome |
 | 🤝 [Wantedly](https://www.wantedly.com/id/nomuraya) | Profile (viewable without an account) |
 | 📦 [Repositories](https://github.com/shimajima-eiji?tab=repositories) | Public projects and experimental code |
 
 ## 📮 Contact
 
-Feedback on my articles and work inquiries are both welcome. Reach me through [**Prairie Cards**](https://my.prairie.cards/u/nomuraya) or [**Wantedly**](https://www.wantedly.com/id/nomuraya). Mentioning **"saw your GitHub profile"** makes it faster to get to the point 🙌
+Feedback on my articles and work inquiries are both welcome. Reach me through [**LinkedIn**](https://www.linkedin.com/in/nomuraya/) or [**Prairie Cards**](https://my.prairie.cards/u/nomuraya). Mentioning **"saw your GitHub profile"** makes it faster to get to the point 🙌
 
 </details>
 
@@ -112,6 +113,7 @@ Feedback on my articles and work inquiries are both welcome. Reach me through [*
 | 📚 [Qiita](https://qiita.com/nomurasan) | 日本語の技術記事 |
 | 🖼️ [ポートフォリオサイト](https://shimajima-eiji.github.io/) | スライド形式の自己紹介・活動記録 |
 | 🪪 [Prairie Cards](https://my.prairie.cards/u/nomuraya) | Forward Deployed Engineer — 名刺代わり |
+| 💼 [LinkedIn](https://www.linkedin.com/in/nomuraya/) | 海外案件・英語圏の方はこちら |
 | 🤝 [Wantedly](https://www.wantedly.com/id/nomuraya) | プロフィール（アカウント不要で閲覧可） |
 | 📦 [Repositories](https://github.com/shimajima-eiji?tab=repositories) | 公開プロジェクト・実験的コード |
 
