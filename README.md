@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Tests Pass, Design Breaks: Why TDD Can&#39;t Hold the Line on Design Intent](https://dev.to/nomurasan/tests-pass-design-breaks-why-tdd-cant-hold-the-line-on-design-intent-42ml)
+<!-- BLOG-POST-LIST:START -->- 📝 [I Replaced Image AI for Technical Diagrams with an 8-Tool Code-First Matrix](https://dev.to/nomurasan/i-replaced-image-ai-for-technical-diagrams-with-an-8-tool-code-first-matrix-3f9n)
+- 📝 [Tests Pass, Design Breaks: Why TDD Can&#39;t Hold the Line on Design Intent](https://dev.to/nomurasan/tests-pass-design-breaks-why-tdd-cant-hold-the-line-on-design-intent-42ml)
 - 📝 [My AI agent built a feature that already existed 15 times](https://dev.to/nomurasan/my-ai-agent-built-a-feature-that-already-existed-15-times-2eic)
 - 📝 [AI made generation cheap. It did not make judgment cheap.](https://dev.to/nomurasan/ai-made-generation-cheap-it-did-not-make-judgment-cheap-j97)
 - 📝 [No errors, but the email never arrives — it&#39;s probably not your code](https://dev.to/nomurasan/no-errors-but-the-email-never-arrives-its-probably-not-your-code-5cbe)
-- 📝 [I Copied a Google AI Studio Session by Hand. 68% of the Data Was Gone.](https://dev.to/nomurasan/i-copied-a-google-ai-studio-session-by-hand-68-of-the-data-was-gone-3fhi)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
