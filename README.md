@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [My Mac dev environment broke on every brew upgrade. Here&#39;s the shared-dependency bug I kept fixing wrong.](https://dev.to/nomurasan/my-mac-dev-environment-broke-on-every-brew-upgrade-heres-the-shared-dependency-bug-i-kept-fixing-3fcn)
+<!-- BLOG-POST-LIST:START -->- 📝 [I Skipped the Design Phase Because I Knew the Topic. It Cost Me a Saturday.](https://dev.to/nomurasan/i-skipped-the-design-phase-because-i-knew-the-topic-it-cost-me-a-saturday-1l8j)
+- 📝 [My Mac dev environment broke on every brew upgrade. Here&#39;s the shared-dependency bug I kept fixing wrong.](https://dev.to/nomurasan/my-mac-dev-environment-broke-on-every-brew-upgrade-heres-the-shared-dependency-bug-i-kept-fixing-3fcn)
 - 📝 [Why &#39;Just Be Careful Next Time&#39; Never Reaches an AI](https://dev.to/nomurasan/why-just-be-careful-next-time-never-reaches-an-ai-1g43)
 - 📝 [Why is the review getting stuck even though it became faster with the introduction of AI?](https://dev.to/nomurasan/why-is-the-review-getting-stuck-even-though-it-became-faster-with-the-introduction-of-ai-763)
 - 📝 [I Replaced Image AI for Technical Diagrams with an 8-Tool Code-First Matrix](https://dev.to/nomurasan/i-replaced-image-ai-for-technical-diagrams-with-an-8-tool-code-first-matrix-3f9n)
-- 📝 [Tests Pass, Design Breaks: Why TDD Can&#39;t Hold the Line on Design Intent](https://dev.to/nomurasan/tests-pass-design-breaks-why-tdd-cant-hold-the-line-on-design-intent-42ml)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
