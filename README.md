@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [My SSH Config Looked Fine. ssh -G Said Nope.](https://dev.to/nomurasan/i-verified-an-ssh-guide-with-ssh-g-and-found-one-backwards-diagram-2dif)
+<!-- BLOG-POST-LIST:START -->- 📝 [My menu bar clock disappeared after a macOS update. I wrote a 50-line VS Code extension instead of trusting a marketplace one.](https://dev.to/nomurasan/my-menu-bar-clock-disappeared-after-a-macos-update-i-wrote-a-50-line-vs-code-extension-instead-of-3kgm)
+- 📝 [Guard Scripts Don&#39;t Stop an AI Agent From Publishing Your Draft. It Has a Shell](https://dev.to/nomurasan/guard-scripts-dont-stop-an-ai-agent-from-publishing-your-draft-it-has-a-shell-327g)
+- 📝 [Stop Fixing Your AI Writing Prompt. Make These 5 Decisions First](https://dev.to/nomurasan/stop-fixing-your-ai-writing-prompt-make-these-5-decisions-first-51gk)
+- 📝 [My SSH Config Looked Fine. ssh -G Said Nope.](https://dev.to/nomurasan/i-verified-an-ssh-guide-with-ssh-g-and-found-one-backwards-diagram-2dif)
 - 📝 [LLM-as-Judge Is Too Lenient. Here&#39;s a Cheap Fix: Judge Refute &lpar;Maybe&rpar; Arbitrate](https://dev.to/nomurasan/llm-as-judge-is-too-lenient-heres-a-cheap-fix-judge-refute-maybe-arbitrate-26mm)
-- 📝 [I Skipped the Design Phase Because I Knew the Topic. It Cost Me a Saturday.](https://dev.to/nomurasan/i-skipped-the-design-phase-because-i-knew-the-topic-it-cost-me-a-saturday-1l8j)
-- 📝 [My Mac dev environment broke on every brew upgrade. Here&#39;s the shared-dependency bug I kept fixing wrong.](https://dev.to/nomurasan/my-mac-dev-environment-broke-on-every-brew-upgrade-heres-the-shared-dependency-bug-i-kept-fixing-3fcn)
-- 📝 [Why &#39;Just Be Careful Next Time&#39; Never Reaches an AI](https://dev.to/nomurasan/why-just-be-careful-next-time-never-reaches-an-ai-1g43)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
