@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Open-ended delegation froze 8 of 13 people. Here&#39;s what unfroze them](https://dev.to/nomurasan/open-ended-delegation-froze-8-of-13-people-heres-what-unfroze-them-3cle)
+<!-- BLOG-POST-LIST:START -->- 📝 [I Stopped Asking AI Agents to Behave: 3 Permission Levels Instead](https://dev.to/nomurasan/i-stopped-asking-ai-agents-to-behave-3-permission-levels-instead-3e3p)
+- 📝 [Open-ended delegation froze 8 of 13 people. Here&#39;s what unfroze them](https://dev.to/nomurasan/open-ended-delegation-froze-8-of-13-people-heres-what-unfroze-them-3cle)
 - 📝 [My menu bar clock disappeared after a macOS update. I wrote a 50-line VS Code extension instead of trusting a marketplace one.](https://dev.to/nomurasan/my-menu-bar-clock-disappeared-after-a-macos-update-i-wrote-a-50-line-vs-code-extension-instead-of-3kgm)
 - 📝 [Guard Scripts Don&#39;t Stop an AI Agent From Publishing Your Draft. It Has a Shell](https://dev.to/nomurasan/guard-scripts-dont-stop-an-ai-agent-from-publishing-your-draft-it-has-a-shell-327g)
 - 📝 [Stop Fixing Your AI Writing Prompt. Make These 5 Decisions First](https://dev.to/nomurasan/stop-fixing-your-ai-writing-prompt-make-these-5-decisions-first-51gk)
-- 📝 [My SSH Config Looked Fine. ssh -G Said Nope.](https://dev.to/nomurasan/i-verified-an-ssh-guide-with-ssh-g-and-found-one-backwards-diagram-2dif)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
