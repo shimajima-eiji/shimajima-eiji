@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [I Measured Claude Code&#39;s Prompt-Cache Cost Three Ways. 85% of It Wasn&#39;t Mine to Trim.](https://dev.to/nomurasan/i-measured-claude-codes-prompt-cache-cost-three-ways-85-of-it-wasnt-mine-to-trim-48hm)
+<!-- BLOG-POST-LIST:START -->- 📝 [The Humans Become the Bottleneck: A Structural View of AI-Augmented Teams](https://dev.to/nomurasan/the-humans-become-the-bottleneck-a-structural-view-of-ai-augmented-teams-3ca)
+- 📝 [CLAUDE.md Is Not a Prompt File. It Is an Operating Boundary.](https://dev.to/nomurasan/claudemd-is-not-a-prompt-file-it-is-an-operating-boundary-6gl)
+- 📝 [I Measured Claude Code&#39;s Prompt-Cache Cost Three Ways. 85% of It Wasn&#39;t Mine to Trim.](https://dev.to/nomurasan/i-measured-claude-codes-prompt-cache-cost-three-ways-85-of-it-wasnt-mine-to-trim-48hm)
 - 📝 [McDonald&#39;s ran an AI drive-thru pilot for 3 years across 100+ stores, then killed it. It wasn&#39;t an accuracy problem.](https://dev.to/nomurasan/mcdonalds-ran-an-ai-drive-thru-pilot-for-3-years-across-100-stores-then-killed-it-it-wasnt-an-4mp2)
 - 📝 [I Stopped Asking AI Agents to Behave: 3 Permission Levels Instead](https://dev.to/nomurasan/i-stopped-asking-ai-agents-to-behave-3-permission-levels-instead-3e3p)
-- 📝 [Open-ended delegation freezes half a room. Here&#39;s what unfroze them](https://dev.to/nomurasan/open-ended-delegation-froze-8-of-13-people-heres-what-unfroze-them-3cle)
-- 📝 [My menu bar clock disappeared after a macOS update. I wrote a 50-line VS Code extension instead of trusting a marketplace one.](https://dev.to/nomurasan/my-menu-bar-clock-disappeared-after-a-macos-update-i-wrote-a-50-line-vs-code-extension-instead-of-3kgm)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
