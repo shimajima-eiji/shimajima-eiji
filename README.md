@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [I Built 3 Checks Into My AI&#39;s Slack Workflow. I&#39;ve Used One of Them Zero Times.](https://dev.to/nomurasan/i-built-3-checks-into-my-ais-slack-workflow-ive-used-one-of-them-zero-times-5ak1)
+<!-- BLOG-POST-LIST:START -->- 📝 [I Almost Built a VSCode Extension. Four GitHub Searches Changed My Mind.](https://dev.to/nomurasan/i-almost-built-a-vscode-extension-four-github-searches-changed-my-mind-2033)
+- 📝 [I Built 3 Checks Into My AI&#39;s Slack Workflow. I&#39;ve Used One of Them Zero Times.](https://dev.to/nomurasan/i-built-3-checks-into-my-ais-slack-workflow-ive-used-one-of-them-zero-times-5ak1)
 - 📝 [The Humans Become the Bottleneck: A Structural View of AI-Augmented Teams](https://dev.to/nomurasan/the-humans-become-the-bottleneck-a-structural-view-of-ai-augmented-teams-3ca)
 - 📝 [CLAUDE.md Is Not a Prompt File. It Is an Operating Boundary.](https://dev.to/nomurasan/claudemd-is-not-a-prompt-file-it-is-an-operating-boundary-6gl)
 - 📝 [I Measured Claude Code&#39;s Prompt-Cache Cost Three Ways. 85% of It Wasn&#39;t Mine to Trim.](https://dev.to/nomurasan/i-measured-claude-codes-prompt-cache-cost-three-ways-85-of-it-wasnt-mine-to-trim-48hm)
-- 📝 [McDonald&#39;s ran an AI drive-thru pilot for 3 years across 100+ stores, then killed it. It wasn&#39;t an accuracy problem.](https://dev.to/nomurasan/mcdonalds-ran-an-ai-drive-thru-pilot-for-3-years-across-100-stores-then-killed-it-it-wasnt-an-4mp2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
