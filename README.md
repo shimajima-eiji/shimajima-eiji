@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [My GitHub Actions run was green. It deployed nothing.](https://dev.to/nomurasan/my-github-actions-run-was-green-it-deployed-nothing-565)
+<!-- BLOG-POST-LIST:START -->- 📝 [I built a schemaless intake for my CRM. It silently dropped files three times.](https://dev.to/nomurasan/i-built-a-schemaless-intake-for-my-crm-it-silently-dropped-files-three-times-2po7)
+- 📝 [Your GitHub Release URL Opens Fine. That&#39;s Not Proof You Can Get the Files Back](https://dev.to/nomurasan/your-github-release-url-opens-fine-thats-not-proof-you-can-get-the-files-back-6jk)
+- 📝 [My GitHub Actions run was green. It deployed nothing.](https://dev.to/nomurasan/my-github-actions-run-was-green-it-deployed-nothing-565)
 - 📝 [I Almost Built a VSCode Extension. Four GitHub Searches Changed My Mind.](https://dev.to/nomurasan/i-almost-built-a-vscode-extension-four-github-searches-changed-my-mind-2033)
 - 📝 [I Built 3 Checks Into My AI&#39;s Slack Workflow. I&#39;ve Used One of Them Zero Times.](https://dev.to/nomurasan/i-built-3-checks-into-my-ais-slack-workflow-ive-used-one-of-them-zero-times-5ak1)
-- 📝 [The Humans Become the Bottleneck: A Structural View of AI-Augmented Teams](https://dev.to/nomurasan/the-humans-become-the-bottleneck-a-structural-view-of-ai-augmented-teams-3ca)
-- 📝 [CLAUDE.md Is Not a Prompt File. It Is an Operating Boundary.](https://dev.to/nomurasan/claudemd-is-not-a-prompt-file-it-is-an-operating-boundary-6gl)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
