@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
+<!-- BLOG-POST-LIST:START -->- 📝 [Jacquard: A Language Where &#39;What Can This Code Touch?&#39; Fits on One Line](https://dev.to/nomurasan/jacquard-a-language-where-what-can-this-code-touch-fits-on-one-line-3kpo)
+- 📝 [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
 - 📝 [I built a schemaless intake for my CRM. It silently dropped files three times.](https://dev.to/nomurasan/i-built-a-schemaless-intake-for-my-crm-it-silently-dropped-files-three-times-2po7)
 - 📝 [Your GitHub Release URL Opens Fine. That&#39;s Not Proof You Can Get the Files Back](https://dev.to/nomurasan/your-github-release-url-opens-fine-thats-not-proof-you-can-get-the-files-back-6jk)
 - 📝 [My GitHub Actions run was green. It deployed nothing.](https://dev.to/nomurasan/my-github-actions-run-was-green-it-deployed-nothing-565)
-- 📝 [I Almost Built a VSCode Extension. Four GitHub Searches Changed My Mind.](https://dev.to/nomurasan/i-almost-built-a-vscode-extension-four-github-searches-changed-my-mind-2033)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
