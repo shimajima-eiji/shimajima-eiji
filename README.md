@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
+<!-- BLOG-POST-LIST:START -->- 📝 [Building a 3D Scene from 30 Photos: Getting Gaussian Splatting Running on Colab](https://dev.to/nomurasan/building-a-3d-scene-from-30-photos-getting-gaussian-splatting-running-on-colab-4n5p)
+- 📝 [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
 - 📝 [I Grepped My Own Claude Code Logs and Found the Hidden Tag Anthropic Never Shows You](https://dev.to/nomurasan/i-grepped-my-own-claude-code-logs-and-found-the-hidden-tag-anthropic-never-shows-you-17c0)
 - 📝 [Subagent Launch Costs: Audit Before You Try to Reduce](https://dev.to/nomurasan/why-my-subagent-launches-cost-50k-tokens-before-doing-any-work-4em1)
 - 📝 [Jacquard: A Language Where &#39;What Can This Code Touch?&#39; Fits on One Line](https://dev.to/nomurasan/jacquard-a-language-where-what-can-this-code-touch-fits-on-one-line-3kpo)
-- 📝 [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
