@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [My First Day With OpenTelemetry: Spans That Arrive but Measure Nothing](https://dev.to/nomurasan/my-first-day-with-opentelemetry-spans-that-arrive-but-measure-nothing-k3p)
+<!-- BLOG-POST-LIST:START -->- 📝 [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
+- 📝 [My First Day With OpenTelemetry: Spans That Arrive but Measure Nothing](https://dev.to/nomurasan/my-first-day-with-opentelemetry-spans-that-arrive-but-measure-nothing-k3p)
 - 📝 [~/.ssh/config&#39;s Permission Check: When OpenSSH Enforces It, and What Changes Between ssh -F and Include](https://dev.to/nomurasan/sshconfigs-permission-check-when-openssh-enforces-it-and-what-changes-between-ssh-f-and-2knj)
 - 📝 [Building a 3D Scene from 30 Photos: Getting Gaussian Splatting Running on Colab](https://dev.to/nomurasan/building-a-3d-scene-from-30-photos-getting-gaussian-splatting-running-on-colab-4n5p)
 - 📝 [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
-- 📝 [I Grepped My Own Claude Code Logs and Found the Hidden Tag Anthropic Never Shows You](https://dev.to/nomurasan/i-grepped-my-own-claude-code-logs-and-found-the-hidden-tag-anthropic-never-shows-you-17c0)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
