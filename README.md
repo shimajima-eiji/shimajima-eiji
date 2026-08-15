@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [I Used Claude Code Heavily. Then Codex Changed How I Hand Off Work.](https://dev.to/nomurasan/i-used-claude-code-heavily-then-codex-changed-how-i-hand-off-work-id)
+<!-- BLOG-POST-LIST:START -->- 📝 [All 26 of My MCP Tools Failed the Same Way. My Test to Rule Out the Token Proved It Was the Problem.](https://dev.to/nomurasan/all-26-of-my-mcp-tools-failed-the-same-way-my-test-to-rule-out-the-token-proved-it-was-the-problem-4ol5)
+- 📝 [I Used Claude Code Heavily. Then Codex Changed How I Hand Off Work.](https://dev.to/nomurasan/i-used-claude-code-heavily-then-codex-changed-how-i-hand-off-work-id)
 - 📝 [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
 - 📝 [My First Day With OpenTelemetry: Spans That Arrive but Measure Nothing](https://dev.to/nomurasan/my-first-day-with-opentelemetry-spans-that-arrive-but-measure-nothing-k3p)
 - 📝 [~/.ssh/config&#39;s Permission Check: When OpenSSH Enforces It, and What Changes Between ssh -F and Include](https://dev.to/nomurasan/sshconfigs-permission-check-when-openssh-enforces-it-and-what-changes-between-ssh-f-and-2knj)
-- 📝 [Building a 3D Scene from 30 Photos: Getting Gaussian Splatting Running on Colab](https://dev.to/nomurasan/building-a-3d-scene-from-30-photos-getting-gaussian-splatting-running-on-colab-4n5p)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
