@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Silent Failure: My AI Agent&#39;s Guardrail Died for 4 Hours and Said Nothing About It](https://dev.to/nomurasan/silent-failure-my-ai-agents-guardrail-died-for-4-hours-and-said-nothing-about-it-31h8)
+<!-- BLOG-POST-LIST:START -->- 📝 [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
+- 📝 [Silent Failure: My AI Agent&#39;s Guardrail Died for 4 Hours and Said Nothing About It](https://dev.to/nomurasan/silent-failure-my-ai-agents-guardrail-died-for-4-hours-and-said-nothing-about-it-31h8)
 - 📝 [All 26 of My MCP Tools Failed the Same Way. My Test to Rule Out the Token Proved It Was the Problem.](https://dev.to/nomurasan/all-26-of-my-mcp-tools-failed-the-same-way-my-test-to-rule-out-the-token-proved-it-was-the-problem-4ol5)
 - 📝 [I Used Claude Code Heavily. Then Codex Changed How I Hand Off Work.](https://dev.to/nomurasan/i-used-claude-code-heavily-then-codex-changed-how-i-hand-off-work-id)
 - 📝 [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
-- 📝 [My First Day With OpenTelemetry: Spans That Arrive but Measure Nothing](https://dev.to/nomurasan/my-first-day-with-opentelemetry-spans-that-arrive-but-measure-nothing-k3p)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
