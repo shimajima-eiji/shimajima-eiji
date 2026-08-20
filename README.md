@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
+<!-- BLOG-POST-LIST:START -->- 📝 [I ran a honeypot for AI agents for 45 days. 82% of the traffic that reached it was an attack.](https://dev.to/nomurasan/i-ran-a-honeypot-for-ai-agents-for-45-days-82-of-the-traffic-that-reached-it-was-an-attack-4f35)
+- 📝 [I Stopped Answering &quot;Which Language Should I Learn First.&quot; The Real Question Makes the Choice Almost Automatic.](https://dev.to/nomurasan/i-stopped-answering-which-language-should-i-learn-first-the-real-question-makes-the-choice-252p)
+- 📝 [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
 - 📝 [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
 - 📝 [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
-- 📝 [Silent Failure: My AI Agent&#39;s Guardrail Died for 4 Hours and Said Nothing About It](https://dev.to/nomurasan/silent-failure-my-ai-agents-guardrail-died-for-4-hours-and-said-nothing-about-it-31h8)
-- 📝 [All 26 of My MCP Tools Failed the Same Way. My Test to Rule Out the Token Proved It Was the Problem.](https://dev.to/nomurasan/all-26-of-my-mcp-tools-failed-the-same-way-my-test-to-rule-out-the-token-proved-it-was-the-problem-4ol5)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
