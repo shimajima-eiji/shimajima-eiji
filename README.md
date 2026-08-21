@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [I ran a honeypot for AI agents for 45 days. 82% of the traffic that reached it was an attack.](https://dev.to/nomurasan/i-ran-a-honeypot-for-ai-agents-for-45-days-82-of-the-traffic-that-reached-it-was-an-attack-4f35)
+<!-- BLOG-POST-LIST:START -->- 📝 [I searched &#39;Sepolia&#39; in my wallet&#39;s network list and got 20+ similar names. Here&#39;s the one number that actually matters.](https://dev.to/nomurasan/i-searched-sepolia-in-my-wallets-network-list-and-got-20-similar-names-heres-the-one-number-4eml)
+- 📝 [I ran a honeypot for AI agents for 45 days. 82% of the traffic that reached it was an attack.](https://dev.to/nomurasan/i-ran-a-honeypot-for-ai-agents-for-45-days-82-of-the-traffic-that-reached-it-was-an-attack-4f35)
 - 📝 [I Stopped Answering &quot;Which Language Should I Learn First.&quot; The Real Question Makes the Choice Almost Automatic.](https://dev.to/nomurasan/i-stopped-answering-which-language-should-i-learn-first-the-real-question-makes-the-choice-252p)
 - 📝 [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
 - 📝 [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
-- 📝 [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
