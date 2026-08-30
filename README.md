@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Codex vs CodeRabbit: Choose the Ownership Boundary, Not the Review Score](https://dev.to/nomurasan/codex-vs-coderabbit-choose-the-ownership-boundary-not-the-review-score-1d0m)
+<!-- BLOG-POST-LIST:START -->- 📝 [Prompt Injection Detection Failed—So I Reduced My AI Agent&#39;s Permissions](https://dev.to/nomurasan/prompt-injection-detection-failed-so-i-reduced-my-ai-agents-permissions-12i3)
+- 📝 [A Reader Asked If My AI Judge Works. I Planted 5 Bugs to Answer](https://dev.to/nomurasan/a-reader-asked-if-my-ai-judge-works-i-planted-5-bugs-to-answer-48b9)
+- 📝 [Codex vs CodeRabbit: Choose the Ownership Boundary, Not the Review Score](https://dev.to/nomurasan/codex-vs-coderabbit-choose-the-ownership-boundary-not-the-review-score-1d0m)
 - 📝 [How Far Can an AI Character Change Before It Stops Being Recognized?](https://dev.to/nomurasan/how-far-can-an-ai-character-change-before-it-stops-being-recognized-1kjn)
 - 📝 [You Can&#39;t Add Up AI Agent Wait Time: Measure Overlapping Runs Instead](https://dev.to/nomurasan/you-cant-add-up-ai-agent-wait-time-measure-overlapping-runs-instead-3gc6)
-- 📝 [When I consulted AI about my business, it changed its opinion three times in one hour.](https://dev.to/nomurasan/when-i-consulted-ai-about-my-business-it-changed-its-opinion-three-times-in-one-hour-58m3)
-- 📝 [I searched &#39;Sepolia&#39; in my wallet&#39;s network list and got 20+ similar names. Here&#39;s the one number that actually matters.](https://dev.to/nomurasan/i-searched-sepolia-in-my-wallets-network-list-and-got-20-similar-names-heres-the-one-number-4eml)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
