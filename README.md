@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Prompt Injection Detection Failed—So I Reduced My AI Agent&#39;s Permissions](https://dev.to/nomurasan/prompt-injection-detection-failed-so-i-reduced-my-ai-agents-permissions-12i3)
+<!-- BLOG-POST-LIST:START -->- 📝 [AI Coding Doesn&#39;t Remove the Beginner Wall: Practice Decomposition Before Syntax](https://dev.to/nomurasan/ai-coding-doesnt-remove-the-beginner-wall-practice-decomposition-before-syntax-225l)
+- 📝 [Prompt Injection Detection Failed—So I Reduced My AI Agent&#39;s Permissions](https://dev.to/nomurasan/prompt-injection-detection-failed-so-i-reduced-my-ai-agents-permissions-12i3)
 - 📝 [A Reader Asked If My AI Judge Works. I Planted 5 Bugs to Answer](https://dev.to/nomurasan/a-reader-asked-if-my-ai-judge-works-i-planted-5-bugs-to-answer-48b9)
 - 📝 [Codex vs CodeRabbit: Choose the Ownership Boundary, Not the Review Score](https://dev.to/nomurasan/codex-vs-coderabbit-choose-the-ownership-boundary-not-the-review-score-1d0m)
 - 📝 [How Far Can an AI Character Change Before It Stops Being Recognized?](https://dev.to/nomurasan/how-far-can-an-ai-character-change-before-it-stops-being-recognized-1kjn)
-- 📝 [You Can&#39;t Add Up AI Agent Wait Time: Measure Overlapping Runs Instead](https://dev.to/nomurasan/you-cant-add-up-ai-agent-wait-time-measure-overlapping-runs-instead-3gc6)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
