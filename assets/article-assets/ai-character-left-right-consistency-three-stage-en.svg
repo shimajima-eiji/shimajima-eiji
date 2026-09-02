@@ -1,104 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-  <title id="title">A three-stage loop for spatial consistency</title>
-  <desc id="desc">Freeze a subject-relative invariant, start with the closest single reference view, validate the actual output, then adopt on PASS or revise on FAIL. Occluded traits are N/A and not evidence.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Three-stage workflow for preventing left-right flips in recurring AI characters</title>
+  <desc id="desc">Keep a short subject-relative invariant, start with one view-specific reference, validate the actual output, and allow one bounded retry after failure.</desc>
   <defs>
     <style>
-      .sans { font-family: Arial, Helvetica, sans-serif; }
-      .navy { fill: #122033; }
-      .white { fill: #ffffff; }
-      .gold { fill: #c79b45; }
-      .goldText { fill: #e4cf9b; }
-      .muted { fill: #5c6675; }
-      .ink { fill: #172033; }
-      .cardTitle { font: 700 25px Arial, Helvetica, sans-serif; fill: #ffffff; }
-      .cardKicker { font: 700 18px Arial, Helvetica, sans-serif; fill: #e4cf9b; }
-      .body { font: 400 18px Arial, Helvetica, sans-serif; fill: #ffffff; }
-      .bodyBold { font: 700 18px Arial, Helvetica, sans-serif; fill: #e4cf9b; }
+      .en { font-family: "Avenir Next", "Helvetica Neue", Arial, sans-serif; }
+      .navy { fill: #102540; }
+      .muted { fill: #637082; }
+      .line { stroke: #102540; stroke-width: 5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
     </style>
-    <marker id="arrowGold" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse">
-      <path d="M 0 0 L 12 6 L 0 12 z" fill="#c79b45"/>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#102540"/>
+    </marker>
+    <marker id="retry" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ef4e2c"/>
     </marker>
   </defs>
+  <rect width="1200" height="675" fill="#fff8e9"/>
+  <path d="M0 100 Q190 35 370 92 T760 85 T1200 55 L1200 0 L0 0 Z" fill="#f4c5a4" opacity="0.35"/>
+  <text x="600" y="68" text-anchor="middle" class="en navy" font-size="34" font-weight="700">KEEP INPUT LIGHT. MAKE VALIDATION SPECIFIC.</text>
+  <text x="600" y="108" text-anchor="middle" class="en muted" font-size="21">A three-stage generation and review loop</text>
 
-  <rect width="1600" height="900" fill="#f7f7f4"/>
-  <text x="800" y="98" text-anchor="middle" class="sans ink" font-size="48" font-weight="700">A THREE-STAGE LOOP FOR SPATIAL CONSISTENCY</text>
-  <text x="800" y="140" text-anchor="middle" class="sans muted" font-size="26">Subject-relative rule   |   view-specific reference   |   output validation</text>
-  <rect x="430" y="155" width="740" height="6" rx="3" fill="#c79b45"/>
+  <g transform="translate(55 160)">
+    <rect width="310" height="300" rx="28" fill="#ffffff" stroke="#d8c8ad" stroke-width="3"/>
+    <circle cx="55" cy="55" r="31" fill="#102540"/>
+    <text x="55" y="66" text-anchor="middle" class="en" fill="#ffffff" font-size="28" font-weight="700">1</text>
+    <text x="98" y="62" text-anchor="start" class="en navy" font-size="24" font-weight="700">SHORT INVARIANT</text>
+    <g transform="translate(74 112)">
+      <rect width="162" height="72" rx="13" fill="#eef2f6" stroke="#102540" stroke-width="3"/>
+      <path d="M23 23 H139 M23 38 H124 M23 53 H105" stroke="#102540" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <text x="155" y="223" text-anchor="middle" class="en navy" font-size="20" font-weight="700">Subject-relative left/right</text>
+    <text x="155" y="257" text-anchor="middle" class="en muted" font-size="17">Do not load the full profile</text>
+  </g>
 
-  <!-- Stage 1 -->
-  <rect x="65" y="205" width="440" height="480" rx="26" fill="#122033" stroke="#c79b45" stroke-width="3"/>
-  <rect x="92" y="230" width="56" height="56" rx="16" fill="#c79b45"/>
-  <text x="120" y="270" text-anchor="middle" class="sans navy" font-size="34" font-weight="700">1</text>
-  <text x="170" y="267" class="cardTitle">FREEZE THE INVARIANT</text>
-  <text x="92" y="335" class="cardKicker">USE THE CHARACTER'S FRAME</text>
-  <circle cx="285" cy="410" r="66" fill="none" stroke="#e4cf9b" stroke-width="4"/>
-  <line x1="190" y1="410" x2="380" y2="410" stroke="#e4cf9b" stroke-width="3"/>
-  <line x1="285" y1="315" x2="285" y2="505" stroke="#e4cf9b" stroke-width="3"/>
-  <line x1="285" y1="410" x2="215" y2="410" stroke="#c79b45" stroke-width="7" marker-end="url(#arrowGold)"/>
-  <text x="170" y="416" class="sans white" font-size="20" font-weight="700">LEFT</text>
-  <circle cx="101" cy="555" r="5" fill="#c79b45"/>
-  <text x="120" y="562" class="body">Ornament = character's left</text>
-  <circle cx="101" cy="595" r="5" fill="#c79b45"/>
-  <text x="120" y="602" class="body">Strap = right shoulder to left waist</text>
-  <circle cx="101" cy="635" r="5" fill="#c79b45"/>
-  <text x="120" y="642" class="bodyBold">Stable across camera changes</text>
+  <path d="M378 310 H409" class="line"/>
+  <path d="M409 294 L433 310 L409 326 Z" fill="#102540"/>
 
-  <!-- Stage 2 -->
-  <rect x="580" y="205" width="440" height="480" rx="26" fill="#122033" stroke="#c79b45" stroke-width="3"/>
-  <rect x="607" y="230" width="56" height="56" rx="16" fill="#c79b45"/>
-  <text x="635" y="270" text-anchor="middle" class="sans navy" font-size="34" font-weight="700">2</text>
-  <text x="685" y="267" class="cardTitle">START WITH ONE VIEW</text>
-  <text x="607" y="335" class="cardKicker">USE THE CLOSEST REFERENCE</text>
-  <rect x="650" y="365" width="118" height="150" rx="14" fill="#263a55" stroke="#e4cf9b" stroke-width="2"/>
-  <rect x="668" y="377" width="118" height="150" rx="14" fill="#263a55" stroke="#e4cf9b" stroke-width="2"/>
-  <rect x="686" y="389" width="118" height="150" rx="14" fill="#263a55" stroke="#e4cf9b" stroke-width="2"/>
-  <rect x="770" y="350" width="160" height="190" rx="18" fill="#ffffff" stroke="#c79b45" stroke-width="5"/>
-  <circle cx="850" cy="408" r="29" fill="#1b2d45"/>
-  <rect x="808" y="436" width="84" height="72" rx="22" fill="#1b2d45"/>
-  <circle cx="876" cy="400" r="8" fill="#c79b45"/>
-  <circle cx="616" cy="563" r="5" fill="#c79b45"/>
-  <text x="635" y="570" class="body">Keep the turnaround as canon</text>
-  <circle cx="616" cy="603" r="5" fill="#c79b45"/>
-  <text x="635" y="610" class="body">Attach one view for this composition</text>
-  <circle cx="616" cy="643" r="5" fill="#c79b45"/>
-  <text x="635" y="650" class="body">Add another only for a named role</text>
+  <g transform="translate(445 160)">
+    <rect width="310" height="300" rx="28" fill="#ffffff" stroke="#d8c8ad" stroke-width="3"/>
+    <circle cx="55" cy="55" r="31" fill="#102540"/>
+    <text x="55" y="66" text-anchor="middle" class="en" fill="#ffffff" font-size="28" font-weight="700">2</text>
+    <text x="98" y="62" text-anchor="start" class="en navy" font-size="24" font-weight="700">ONE VIEW FIRST</text>
+    <g transform="translate(88 105)">
+      <rect width="134" height="88" rx="10" fill="#f8d9c2" stroke="#102540" stroke-width="4"/>
+      <circle cx="67" cy="41" r="22" fill="#d8b38d" stroke="#102540" stroke-width="3"/>
+      <path d="M35 79 Q67 53 99 79" fill="#f4eadc" stroke="#102540" stroke-width="3"/>
+      <circle cx="90" cy="31" r="9" fill="#ef4e2c" stroke="#102540" stroke-width="2"/>
+    </g>
+    <text x="155" y="223" text-anchor="middle" class="en navy" font-size="20" font-weight="700">Closest reference view</text>
+    <text x="155" y="257" text-anchor="middle" class="en muted" font-size="17">Keep turnaround as source</text>
+  </g>
 
-  <!-- Stage 3 -->
-  <rect x="1095" y="205" width="440" height="480" rx="26" fill="#122033" stroke="#c79b45" stroke-width="3"/>
-  <rect x="1122" y="230" width="56" height="56" rx="16" fill="#c79b45"/>
-  <text x="1150" y="270" text-anchor="middle" class="sans navy" font-size="34" font-weight="700">3</text>
-  <text x="1200" y="267" class="cardTitle">VALIDATE THE OUTPUT</text>
-  <text x="1122" y="335" class="cardKicker">JUDGE WHAT WAS RENDERED</text>
-  <rect x="1160" y="365" width="160" height="160" rx="18" fill="#ffffff" stroke="#e4cf9b" stroke-width="3"/>
-  <circle cx="1237" cy="421" r="29" fill="#1b2d45"/>
-  <rect x="1193" y="448" width="88" height="62" rx="18" fill="#1b2d45"/>
-  <circle cx="1265" cy="413" r="9" fill="#c79b45"/>
-  <circle cx="1343" cy="453" r="39" fill="none" stroke="#c79b45" stroke-width="9"/>
-  <line x1="1372" y1="482" x2="1415" y2="525" stroke="#c79b45" stroke-width="12"/>
-  <polyline points="1321,454 1340,473 1370,436" fill="none" stroke="#2f6d58" stroke-width="9"/>
-  <circle cx="1131" cy="563" r="5" fill="#c79b45"/>
-  <text x="1150" y="570" class="body">Classify the actual output view</text>
-  <circle cx="1131" cy="603" r="5" fill="#c79b45"/>
-  <text x="1150" y="610" class="body">Check two visible asymmetric traits</text>
-  <circle cx="1131" cy="643" r="5" fill="#c79b45"/>
-  <text x="1150" y="650" class="body">Record PASS / FAIL / N/A</text>
+  <path d="M768 310 H799" class="line"/>
+  <path d="M799 294 L823 310 L799 326 Z" fill="#102540"/>
 
-  <line x1="515" y1="445" x2="565" y2="445" stroke="#c79b45" stroke-width="8" marker-end="url(#arrowGold)"/>
-  <line x1="1030" y1="445" x2="1080" y2="445" stroke="#c79b45" stroke-width="8" marker-end="url(#arrowGold)"/>
+  <g transform="translate(835 160)">
+    <rect width="310" height="300" rx="28" fill="#ffffff" stroke="#d8c8ad" stroke-width="3"/>
+    <circle cx="55" cy="55" r="31" fill="#102540"/>
+    <text x="55" y="66" text-anchor="middle" class="en" fill="#ffffff" font-size="28" font-weight="700">3</text>
+    <text x="98" y="62" text-anchor="start" class="en navy" font-size="24" font-weight="700">VALIDATE OUTPUT</text>
+    <g transform="translate(94 104)">
+      <circle cx="58" cy="47" r="47" fill="#eef2f6" stroke="#102540" stroke-width="5"/>
+      <path d="M31 49 L49 67 L87 26" fill="none" stroke="#2f8f62" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M93 82 L126 115" stroke="#102540" stroke-width="12" stroke-linecap="round"/>
+    </g>
+    <text x="155" y="236" text-anchor="middle" class="en navy" font-size="18" font-weight="700">Actual view + 2 traits</text>
+    <text x="155" y="266" text-anchor="middle" class="en muted" font-size="18">PASS / FAIL / N/A</text>
+  </g>
 
-  <!-- Outcomes -->
-  <rect x="65" y="730" width="1470" height="120" rx="24" fill="#ffffff" stroke="#122033" stroke-width="3"/>
-  <rect x="92" y="760" width="128" height="63" rx="18" fill="#2f6d58"/>
-  <text x="156" y="801" text-anchor="middle" class="sans white" font-size="26" font-weight="700">PASS</text>
-  <text x="240" y="801" class="sans ink" font-size="24" font-weight="700">Adopt the image</text>
-  <line x1="500" y1="755" x2="500" y2="828" stroke="#cdd1d8" stroke-width="2"/>
-  <rect x="535" y="760" width="120" height="63" rx="18" fill="#8b3a3a"/>
-  <text x="595" y="801" text-anchor="middle" class="sans white" font-size="26" font-weight="700">FAIL</text>
-  <text x="675" y="786" class="sans ink" font-size="22" font-weight="700">Revise view, reference,</text>
-  <text x="675" y="817" class="sans ink" font-size="22" font-weight="700">or generation method</text>
-  <line x1="1075" y1="755" x2="1075" y2="828" stroke="#cdd1d8" stroke-width="2"/>
-  <rect x="1110" y="760" width="115" height="63" rx="18" fill="#6a717c"/>
-  <text x="1168" y="801" text-anchor="middle" class="sans white" font-size="26" font-weight="700">N/A</text>
-  <text x="1245" y="786" class="sans ink" font-size="22" font-weight="700">Occluded:</text>
-  <text x="1245" y="817" class="sans ink" font-size="22" font-weight="700">not evidence</text>
+  <path d="M990 472 V520 Q990 552 958 552 H250 Q214 552 214 516 V494" fill="none" stroke="#ef4e2c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M194 516 L214 476 L234 516 Z" fill="#ef4e2c"/>
+  <rect x="455" y="518" width="290" height="68" rx="18" fill="#ef4e2c"/>
+  <text x="600" y="546" text-anchor="middle" class="en" fill="#ffffff" font-size="19" font-weight="700">FAIL: REVIEW THE SETUP</text>
+  <text x="600" y="572" text-anchor="middle" class="en" fill="#ffffff" font-size="16">Allow one automatic retry</text>
+
+  <g transform="translate(870 602)">
+    <circle cx="18" cy="18" r="18" fill="#2f8f62"/>
+    <path d="M9 18 L16 25 L28 11" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="25" class="en navy" font-size="21" font-weight="700">PASS: ADOPT</text>
+  </g>
 </svg>
