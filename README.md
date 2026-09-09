@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [My Quiz Has an AI Rival. Its Scoring Doesn&#39;t Need an LLM.](https://dev.to/nomurasan/my-quiz-has-an-ai-rival-its-scoring-doesnt-need-an-llm-1hm7)
+<!-- BLOG-POST-LIST:START -->- 📝 [The sun does not rise in my world, and my AI keeps forgetting](https://dev.to/nomurasan/the-sun-does-not-rise-in-my-world-and-my-ai-keeps-forgetting-2o64)
+- 📝 [My Quiz Has an AI Rival. Its Scoring Doesn&#39;t Need an LLM.](https://dev.to/nomurasan/my-quiz-has-an-ai-rival-its-scoring-doesnt-need-an-llm-1hm7)
 - 📝 [I Cut AI Agent Handoff Payloads by 87%—Then the Important Questions Disappeared](https://dev.to/nomurasan/i-cut-ai-agent-handoff-payloads-by-87-then-the-important-questions-disappeared-4p2)
 - 📝 [Your MCP Tools Are Listed. Is the Integration Actually Working?](https://dev.to/nomurasan/your-mcp-tools-are-listed-is-the-integration-actually-working-448h)
 - 📝 [Your AI Character Looks Right—Except Every Asymmetric Detail Flipped](https://dev.to/nomurasan/your-ai-character-looks-right-except-every-asymmetric-detail-flipped-38k3)
-- 📝 [Stop Rerunning All CI for Tiny Changes: Fingerprint Each Check&#39;s Inputs](https://dev.to/nomurasan/stop-rerunning-all-ci-for-tiny-changes-fingerprint-each-checks-inputs-2i00)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
