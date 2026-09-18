@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Your AI Video Passed QA—and Still Wasn&#39;t Publishable](https://dev.to/nomurasan/your-ai-video-passed-qa-and-still-wasnt-publishable-23gj)
+<!-- BLOG-POST-LIST:START -->- 📝 [When AI Becomes Production Infrastructure, You Need Recovery Capacity](https://dev.to/nomurasan/when-ai-becomes-production-infrastructure-you-need-recovery-capacity-3kgp)
+- 📝 [Your AI Video Passed QA—and Still Wasn&#39;t Publishable](https://dev.to/nomurasan/your-ai-video-passed-qa-and-still-wasnt-publishable-23gj)
 - 📝 [Your AI Adoption Is Waiting on Approval, Not Better Prompts](https://dev.to/nomurasan/your-ai-adoption-is-waiting-on-approval-not-better-prompts-2afi)
 - 📝 [Cloudflare Blocked My Playwright Login. Attaching to a Chrome I Started Myself Walked Straight Through.](https://dev.to/nomurasan/cloudflare-blocked-my-playwright-login-attaching-to-a-chrome-i-started-myself-walked-straight-50e5)
 - 📝 [The sun does not rise in my world, and my AI keeps forgetting](https://dev.to/nomurasan/the-sun-does-not-rise-in-my-world-and-my-ai-keeps-forgetting-2o64)
-- 📝 [My Quiz Has an AI Rival. Its Scoring Doesn&#39;t Need an LLM.](https://dev.to/nomurasan/my-quiz-has-an-ai-rival-its-scoring-doesnt-need-an-llm-1hm7)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
