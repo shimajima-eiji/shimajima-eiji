@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [When AI Becomes Production Infrastructure, You Need Recovery Capacity](https://dev.to/nomurasan/when-ai-becomes-production-infrastructure-you-need-recovery-capacity-3kgp)
+<!-- BLOG-POST-LIST:START -->- 📝 [My Audit Caught Every Known Bug. Ten of Its Next 18 Flags Were Wrong.](https://dev.to/nomurasan/my-audit-caught-every-known-bug-ten-of-its-next-18-flags-were-wrong-3fpe)
+- 📝 [I&#39;m dropping spec-first AI development for smaller experiments](https://dev.to/nomurasan/im-dropping-spec-first-ai-development-for-smaller-experiments-3pa7)
+- 📝 [When AI Becomes Production Infrastructure, You Need Recovery Capacity](https://dev.to/nomurasan/when-ai-becomes-production-infrastructure-you-need-recovery-capacity-3kgp)
 - 📝 [Your AI Video Passed QA—and Still Wasn&#39;t Publishable](https://dev.to/nomurasan/your-ai-video-passed-qa-and-still-wasnt-publishable-23gj)
 - 📝 [Your AI Adoption Is Waiting on Approval, Not Better Prompts](https://dev.to/nomurasan/your-ai-adoption-is-waiting-on-approval-not-better-prompts-2afi)
-- 📝 [Cloudflare Blocked My Playwright Login. Attaching to a Chrome I Started Myself Walked Straight Through.](https://dev.to/nomurasan/cloudflare-blocked-my-playwright-login-attaching-to-a-chrome-i-started-myself-walked-straight-50e5)
-- 📝 [The sun does not rise in my world, and my AI keeps forgetting](https://dev.to/nomurasan/the-sun-does-not-rise-in-my-world-and-my-ai-keeps-forgetting-2o64)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
