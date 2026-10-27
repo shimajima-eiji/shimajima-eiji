@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Three-stage workflow for preventing left-right flips in recurring AI characters</title>
+  <desc id="desc">Keep a short subject-relative invariant, start with one view-specific reference, validate the actual output, and allow one bounded retry after failure.</desc>
+  <defs>
+    <style>
+      .en { font-family: "Avenir Next", "Helvetica Neue", Arial, sans-serif; }
+      .navy { fill: #102540; }
+      .muted { fill: #637082; }
+      .line { stroke: #102540; stroke-width: 5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#102540"/>
+    </marker>
+    <marker id="retry" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ef4e2c"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="675" fill="#fff8e9"/>
+  <path d="M0 100 Q190 35 370 92 T760 85 T1200 55 L1200 0 L0 0 Z" fill="#f4c5a4" opacity="0.35"/>
+  <text x="600" y="68" text-anchor="middle" class="en navy" font-size="34" font-weight="700">KEEP INPUT LIGHT. MAKE VALIDATION SPECIFIC.</text>
+  <text x="600" y="108" text-anchor="middle" class="en muted" font-size="21">A three-stage generation and review loop</text>
+
+  <g transform="translate(55 160)">
+    <rect width="310" height="300" rx="28" fill="#ffffff" stroke="#d8c8ad" stroke-width="3"/>
+    <circle cx="55" cy="55" r="31" fill="#102540"/>
+    <text x="55" y="66" text-anchor="middle" class="en" fill="#ffffff" font-size="28" font-weight="700">1</text>
+    <text x="98" y="62" text-anchor="start" class="en navy" font-size="24" font-weight="700">SHORT INVARIANT</text>
+    <g transform="translate(74 112)">
+      <rect width="162" height="72" rx="13" fill="#eef2f6" stroke="#102540" stroke-width="3"/>
+      <path d="M23 23 H139 M23 38 H124 M23 53 H105" stroke="#102540" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <text x="155" y="223" text-anchor="middle" class="en navy" font-size="20" font-weight="700">Subject-relative left/right</text>
+    <text x="155" y="257" text-anchor="middle" class="en muted" font-size="17">Do not load the full profile</text>
+  </g>
+
+  <path d="M378 310 H409" class="line"/>
+  <path d="M409 294 L433 310 L409 326 Z" fill="#102540"/>
+
+  <g transform="translate(445 160)">
+    <rect width="310" height="300" rx="28" fill="#ffffff" stroke="#d8c8ad" stroke-width="3"/>
+    <circle cx="55" cy="55" r="31" fill="#102540"/>
+    <text x="55" y="66" text-anchor="middle" class="en" fill="#ffffff" font-size="28" font-weight="700">2</text>
+    <text x="98" y="62" text-anchor="start" class="en navy" font-size="24" font-weight="700">ONE VIEW FIRST</text>
+    <g transform="translate(88 105)">
+      <rect width="134" height="88" rx="10" fill="#f8d9c2" stroke="#102540" stroke-width="4"/>
+      <circle cx="67" cy="41" r="22" fill="#d8b38d" stroke="#102540" stroke-width="3"/>
+      <path d="M35 79 Q67 53 99 79" fill="#f4eadc" stroke="#102540" stroke-width="3"/>
+      <circle cx="90" cy="31" r="9" fill="#ef4e2c" stroke="#102540" stroke-width="2"/>
+    </g>
+    <text x="155" y="223" text-anchor="middle" class="en navy" font-size="20" font-weight="700">Closest reference view</text>
+    <text x="155" y="257" text-anchor="middle" class="en muted" font-size="17">Keep turnaround as source</text>
+  </g>
+
+  <path d="M768 310 H799" class="line"/>
+  <path d="M799 294 L823 310 L799 326 Z" fill="#102540"/>
+
+  <g transform="translate(835 160)">
+    <rect width="310" height="300" rx="28" fill="#ffffff" stroke="#d8c8ad" stroke-width="3"/>
+    <circle cx="55" cy="55" r="31" fill="#102540"/>
+    <text x="55" y="66" text-anchor="middle" class="en" fill="#ffffff" font-size="28" font-weight="700">3</text>
+    <text x="98" y="62" text-anchor="start" class="en navy" font-size="24" font-weight="700">VALIDATE OUTPUT</text>
+    <g transform="translate(94 104)">
+      <circle cx="58" cy="47" r="47" fill="#eef2f6" stroke="#102540" stroke-width="5"/>
+      <path d="M31 49 L49 67 L87 26" fill="none" stroke="#2f8f62" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M93 82 L126 115" stroke="#102540" stroke-width="12" stroke-linecap="round"/>
+    </g>
+    <text x="155" y="236" text-anchor="middle" class="en navy" font-size="18" font-weight="700">Actual view + 2 traits</text>
+    <text x="155" y="266" text-anchor="middle" class="en muted" font-size="18">PASS / FAIL / N/A</text>
+  </g>
+
+  <path d="M990 472 V520 Q990 552 958 552 H250 Q214 552 214 516 V494" fill="none" stroke="#ef4e2c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M194 516 L214 476 L234 516 Z" fill="#ef4e2c"/>
+  <rect x="455" y="518" width="290" height="68" rx="18" fill="#ef4e2c"/>
+  <text x="600" y="546" text-anchor="middle" class="en" fill="#ffffff" font-size="19" font-weight="700">FAIL: REVIEW THE SETUP</text>
+  <text x="600" y="572" text-anchor="middle" class="en" fill="#ffffff" font-size="16">Allow one automatic retry</text>
+
+  <g transform="translate(870 602)">
+    <circle cx="18" cy="18" r="18" fill="#2f8f62"/>
+    <path d="M9 18 L16 25 L28 11" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="25" class="en navy" font-size="21" font-weight="700">PASS: ADOPT</text>
+  </g>
+</svg>
