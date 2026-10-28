@@ -41,11 +41,11 @@ Main topics I write about:
 
 ### 🆕 Latest articles
 
-<!-- BLOG-POST-LIST:START -->- 📝 [My Audit Caught Every Known Bug. Ten of Its Next 18 Flags Were Wrong.](https://dev.to/nomurasan/my-audit-caught-every-known-bug-ten-of-its-next-18-flags-were-wrong-3fpe)
+<!-- BLOG-POST-LIST:START -->- 📝 [The `grep || true` Bug That Turned &#39;Never Sent&#39; Into &#39;Not Delivered&#39;](https://dev.to/nomurasan/the-grep-true-bug-that-turned-never-sent-into-not-delivered-1blm)
+- 📝 [My Audit Caught Every Known Bug. Ten of Its Next 18 Flags Were Wrong.](https://dev.to/nomurasan/my-audit-caught-every-known-bug-ten-of-its-next-18-flags-were-wrong-3fpe)
 - 📝 [I&#39;m dropping spec-first AI development for smaller experiments](https://dev.to/nomurasan/im-dropping-spec-first-ai-development-for-smaller-experiments-3pa7)
 - 📝 [When AI Becomes Production Infrastructure, You Need Recovery Capacity](https://dev.to/nomurasan/when-ai-becomes-production-infrastructure-you-need-recovery-capacity-3kgp)
 - 📝 [Your AI Video Passed QA—and Still Wasn&#39;t Publishable](https://dev.to/nomurasan/your-ai-video-passed-qa-and-still-wasnt-publishable-23gj)
-- 📝 [Your AI Adoption Is Waiting on Approval, Not Better Prompts](https://dev.to/nomurasan/your-ai-adoption-is-waiting-on-approval-not-better-prompts-2afi)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ **Read more / follow:** [DEV @nomurasan](https://dev.to/nomurasan)
